@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_NaLi2CoPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08370786
+_cell_length_b   6.60725919
+_cell_length_c   8.53645523
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.90194260
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi2CoPCO7
+_chemical_formula_sum   'Na2 Li4 Co2 P2 C2 O14'
+_cell_volume   285.68544081
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.77326825  0.48295250  0.73708800  1
+  Na  Na1  1  0.22673175  0.98295250  0.26291200  1
+  Li  Li2  1  0.28773275  0.23076550  0.89593700  1
+  Li  Li3  1  0.71226725  0.73076550  0.10406300  1
+  Li  Li4  1  0.76697475  0.00910300  0.72643600  1
+  Li  Li5  1  0.23302525  0.50910300  0.27356400  1
+  Co  Co6  1  0.29089975  0.75559600  0.66043400  1
+  Co  Co7  1  0.70910025  0.25559600  0.33956600  1
+  P  P8  1  0.22954425  0.24784650  0.58892700  1
+  P  P9  1  0.77045575  0.74784650  0.41107300  1
+  C  C10  1  0.18950375  0.74053300  0.95438100  1
+  C  C11  1  0.81049625  0.24053300  0.04561900  1
+  O  O12  1  0.89418325  0.21477950  0.90928900  1
+  O  O13  1  0.10581675  0.71477950  0.09071100  1
+  O  O14  1  0.43824975  0.74296300  0.93158200  1
+  O  O15  1  0.56175025  0.24296300  0.06841800  1
+  O  O16  1  0.01876475  0.76219550  0.83128800  1
+  O  O17  1  0.98123525  0.26219550  0.16871200  1
+  O  O18  1  0.34669575  0.06654900  0.69077200  1
+  O  O19  1  0.65330425  0.56654900  0.30922800  1
+  O  O20  1  0.30019075  0.43494850  0.69495900  1
+  O  O21  1  0.69980925  0.93494850  0.30504100  1
+  O  O22  1  0.65397275  0.76258400  0.57269900  1
+  O  O23  1  0.34602725  0.26258400  0.42730100  1
+  O  O24  1  0.92326625  0.22424400  0.56137300  1
+  O  O25  1  0.07673375  0.72424400  0.43862700  1

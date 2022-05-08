@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Mn3V2O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01438527
+_cell_length_b   5.57451910
+_cell_length_c   7.73332042
+_cell_angle_alpha   70.33569594
+_cell_angle_beta   73.12976814
+_cell_angle_gamma   76.84925405
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3V2O10
+_chemical_formula_sum   'Mn3 V2 O10'
+_cell_volume   192.76753424
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.50000000  0.00000000  1
+  Mn  Mn1  1  0.69553650  0.01483400  0.09950900  1
+  Mn  Mn2  1  0.30446350  0.98516600  0.90049100  1
+  V  V3  1  0.09887600  0.95741600  0.32447000  1
+  V  V4  1  0.90112400  0.04258400  0.67553000  1
+  O  O5  1  0.05571950  0.79907150  0.14493900  1
+  O  O6  1  0.94428050  0.20092850  0.85506100  1
+  O  O7  1  0.34016000  0.20304650  0.04549600  1
+  O  O8  1  0.65984000  0.79695350  0.95450400  1
+  O  O9  1  0.07916300  0.21101900  0.45666100  1
+  O  O10  1  0.92083700  0.78898100  0.54333900  1
+  O  O11  1  0.19723400  0.78759700  0.78366700  1
+  O  O12  1  0.80276600  0.21240300  0.21633300  1
+  O  O13  1  0.45511100  0.83232950  0.31932200  1
+  O  O14  1  0.54488900  0.16767050  0.68067800  1

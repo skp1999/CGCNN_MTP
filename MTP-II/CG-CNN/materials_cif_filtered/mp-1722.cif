@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Zn13Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.79917000
+_cell_length_b   7.65027200
+_cell_length_c   5.06607678
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.77725998
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn13Fe
+_chemical_formula_sum   'Zn26 Fe2'
+_cell_volume   411.15954259
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn1  1  0.61457500  0.00000000  0.93786500  1
+  Zn  Zn2  1  0.38542500  0.00000000  0.06213500  1
+  Zn  Zn3  1  0.22274700  0.00000000  0.37554600  1
+  Zn  Zn4  1  0.77725300  0.00000000  0.62445400  1
+  Zn  Zn5  1  0.57577600  0.21070900  0.31399800  1
+  Zn  Zn6  1  0.42422400  0.21070900  0.68600200  1
+  Zn  Zn7  1  0.42422400  0.78929100  0.68600200  1
+  Zn  Zn8  1  0.57577600  0.78929100  0.31399800  1
+  Zn  Zn9  1  0.67562100  0.31961800  0.79963000  1
+  Zn  Zn10  1  0.32437900  0.31961800  0.20037000  1
+  Zn  Zn11  1  0.32437900  0.68038200  0.20037000  1
+  Zn  Zn12  1  0.67562100  0.68038200  0.79963000  1
+  Zn  Zn13  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn14  1  0.11457500  0.50000000  0.93786500  1
+  Zn  Zn15  1  0.88542500  0.50000000  0.06213500  1
+  Zn  Zn16  1  0.72274700  0.50000000  0.37554600  1
+  Zn  Zn17  1  0.27725300  0.50000000  0.62445400  1
+  Zn  Zn18  1  0.07577600  0.71070900  0.31399800  1
+  Zn  Zn19  1  0.92422400  0.71070900  0.68600200  1
+  Zn  Zn20  1  0.92422400  0.28929100  0.68600200  1
+  Zn  Zn21  1  0.07577600  0.28929100  0.31399800  1
+  Zn  Zn22  1  0.17562100  0.81961800  0.79963000  1
+  Zn  Zn23  1  0.82437900  0.81961800  0.20037000  1
+  Zn  Zn24  1  0.82437900  0.18038200  0.20037000  1
+  Zn  Zn25  1  0.17562100  0.18038200  0.79963000  1
+  Fe  Fe26  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe27  1  0.50000000  0.50000000  0.50000000  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li3MnPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12515773
+_cell_length_b   6.62828200
+_cell_length_c   8.50120351
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.20002725
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3MnPCO7
+_chemical_formula_sum   'Li6 Mn2 P2 C2 O14'
+_cell_volume   288.58143474
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.54042525  0.52290400  0.50083975  1
+  Li  Li1  1  0.45957475  0.02290400  0.49916025  1
+  Li  Li2  1  0.93225025  0.19821550  0.32110275  1
+  Li  Li3  1  0.06774975  0.69821550  0.67889725  1
+  Li  Li4  1  0.94138825  0.38606650  0.97866475  1
+  Li  Li5  1  0.05861175  0.88606650  0.02133525  1
+  Mn  Mn6  1  0.53976325  0.75023050  0.21639175  1
+  Mn  Mn7  1  0.46023675  0.25023050  0.78360825  1
+  P  P8  1  0.45204875  0.25100900  0.17138625  1
+  P  P9  1  0.54795125  0.75100900  0.82861375  1
+  C  C10  1  0.03339125  0.74019150  0.37144975  1
+  C  C11  1  0.96660875  0.24019150  0.62855025  1
+  O  O12  1  0.85994675  0.70762750  0.47511425  1
+  O  O13  1  0.14005325  0.20762750  0.52488575  1
+  O  O14  1  0.27645875  0.76515950  0.41719725  1
+  O  O15  1  0.72354125  0.26515950  0.58280275  1
+  O  O16  1  0.57903225  0.07194450  0.26739775  1
+  O  O17  1  0.42096775  0.57194450  0.73260225  1
+  O  O18  1  0.50396225  0.44130450  0.27302675  1
+  O  O19  1  0.49603775  0.94130450  0.72697325  1
+  O  O20  1  0.96597225  0.75054300  0.22236775  1
+  O  O21  1  0.03402775  0.25054300  0.77763225  1
+  O  O22  1  0.15639375  0.21201700  0.13622125  1
+  O  O23  1  0.84360625  0.71201700  0.86377875  1
+  O  O24  1  0.59542675  0.27736800  0.01457225  1
+  O  O25  1  0.40457325  0.77736800  0.98542775  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Er2CoSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.27815800
+_cell_length_b   4.11376200
+_cell_length_c   9.90368013
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   118.86393086
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2CoSi2
+_chemical_formula_sum   'Er8 Co4 Si8'
+_cell_volume   366.72491995
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.50159500  0.50000000  0.32908800  1
+  Er  Er1  1  0.81309800  0.00000000  0.89140800  1
+  Er  Er2  1  0.49840500  0.50000000  0.67091200  1
+  Er  Er3  1  0.18690200  0.00000000  0.10859200  1
+  Er  Er4  1  0.00159500  0.00000000  0.32908800  1
+  Er  Er5  1  0.31309800  0.50000000  0.89140800  1
+  Er  Er6  1  0.99840500  0.00000000  0.67091200  1
+  Er  Er7  1  0.68690200  0.50000000  0.10859200  1
+  Co  Co8  1  0.22627000  0.50000000  0.37263200  1
+  Co  Co9  1  0.77373000  0.50000000  0.62736800  1
+  Co  Co10  1  0.72627000  0.00000000  0.37263200  1
+  Co  Co11  1  0.27373000  0.00000000  0.62736800  1
+  Si  Si12  1  0.49226300  0.00000000  0.12443900  1
+  Si  Si13  1  0.50773700  0.00000000  0.87556100  1
+  Si  Si14  1  0.64939000  0.00000000  0.56553600  1
+  Si  Si15  1  0.35061000  0.00000000  0.43446400  1
+  Si  Si16  1  0.99226300  0.50000000  0.12443900  1
+  Si  Si17  1  0.00773700  0.50000000  0.87556100  1
+  Si  Si18  1  0.14939000  0.50000000  0.56553600  1
+  Si  Si19  1  0.85061000  0.50000000  0.43446400  1

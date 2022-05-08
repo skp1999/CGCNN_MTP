@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Dy3Co6Sn5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31703000
+_cell_length_b   9.61620000
+_cell_length_c   12.34096600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Co6Sn5
+_chemical_formula_sum   'Dy6 Co12 Sn10'
+_cell_volume   512.31575272
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.50000000  0.50000000  0.81781700  1
+  Dy  Dy1  1  0.50000000  0.50000000  0.18218300  1
+  Dy  Dy2  1  0.00000000  0.00000000  0.00000000  1
+  Dy  Dy3  1  0.00000000  0.00000000  0.31781700  1
+  Dy  Dy4  1  0.00000000  0.00000000  0.68218300  1
+  Dy  Dy5  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co6  1  0.00000000  0.27287350  0.10737150  1
+  Co  Co7  1  0.00000000  0.72712650  0.89262850  1
+  Co  Co8  1  0.00000000  0.72712650  0.10737150  1
+  Co  Co9  1  0.50000000  0.69546200  0.00000000  1
+  Co  Co10  1  0.50000000  0.30453800  0.00000000  1
+  Co  Co11  1  0.00000000  0.27287350  0.89262850  1
+  Co  Co12  1  0.50000000  0.77287350  0.60737150  1
+  Co  Co13  1  0.50000000  0.22712650  0.39262850  1
+  Co  Co14  1  0.50000000  0.22712650  0.60737150  1
+  Co  Co15  1  0.00000000  0.19546200  0.50000000  1
+  Co  Co16  1  0.00000000  0.80453800  0.50000000  1
+  Co  Co17  1  0.50000000  0.77287350  0.39262850  1
+  Sn  Sn18  1  0.00000000  0.65896300  0.32313400  1
+  Sn  Sn19  1  0.00000000  0.65896300  0.67686600  1
+  Sn  Sn20  1  0.00000000  0.34103700  0.32313400  1
+  Sn  Sn21  1  0.00000000  0.50000000  0.00000000  1
+  Sn  Sn22  1  0.00000000  0.34103700  0.67686600  1
+  Sn  Sn23  1  0.50000000  0.15896300  0.82313400  1
+  Sn  Sn24  1  0.50000000  0.15896300  0.17686600  1
+  Sn  Sn25  1  0.50000000  0.84103700  0.82313400  1
+  Sn  Sn26  1  0.50000000  0.00000000  0.50000000  1
+  Sn  Sn27  1  0.50000000  0.84103700  0.17686600  1

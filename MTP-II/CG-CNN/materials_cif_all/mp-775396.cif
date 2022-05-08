@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2FePCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29173120
+_cell_length_b   6.52728315
+_cell_length_c   8.96642442
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.73457493
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2FePCO7
+_chemical_formula_sum   'Na4 Fe2 P2 C2 O14'
+_cell_volume   309.56401454
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.26557000  0.23639100  0.41829125  1
+  Na  Na1  1  0.73443000  0.73639100  0.58170875  1
+  Na  Na2  1  0.75214600  0.47798400  0.23122925  1
+  Na  Na3  1  0.24785400  0.97798400  0.76877075  1
+  Fe  Fe4  1  0.28197400  0.76195700  0.15474425  1
+  Fe  Fe5  1  0.71802600  0.26195700  0.84525575  1
+  P  P6  1  0.22196950  0.25378900  0.07470525  1
+  P  P7  1  0.77803050  0.75378900  0.92529475  1
+  C  C8  1  0.22035300  0.74882200  0.43147025  1
+  C  C9  1  0.77964700  0.24882200  0.56852975  1
+  O  O10  1  0.81331100  0.26545400  0.42893525  1
+  O  O11  1  0.18668900  0.76545400  0.57106475  1
+  O  O12  1  0.44652400  0.74511700  0.37398175  1
+  O  O13  1  0.55347600  0.24511700  0.62601825  1
+  O  O14  1  0.03126850  0.73605000  0.33366675  1
+  O  O15  1  0.96873150  0.23605000  0.66633325  1
+  O  O16  1  0.27276900  0.06561900  0.17737175  1
+  O  O17  1  0.72723100  0.56561900  0.82262825  1
+  O  O18  1  0.28916600  0.44206700  0.17412875  1
+  O  O19  1  0.71083400  0.94206700  0.82587125  1
+  O  O20  1  0.62050850  0.74282800  0.06730525  1
+  O  O21  1  0.37949150  0.24282800  0.93269475  1
+  O  O22  1  0.93641200  0.26532300  0.02778625  1
+  O  O23  1  0.06358800  0.76532300  0.97221375  1

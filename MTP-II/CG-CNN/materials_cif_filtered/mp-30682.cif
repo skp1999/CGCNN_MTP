@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZrGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89647000
+_cell_length_b   3.89647000
+_cell_length_c   20.53826400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrGa
+_chemical_formula_sum   'Zr8 Ga8'
+_cell_volume   311.82175080
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000000  0.00000000  0.44734100  1
+  Zr  Zr1  1  0.50000000  0.00000000  0.05265900  1
+  Zr  Zr2  1  0.50000000  0.50000000  0.19734100  1
+  Zr  Zr3  1  0.00000000  0.00000000  0.30265900  1
+  Zr  Zr4  1  0.00000000  0.50000000  0.94734100  1
+  Zr  Zr5  1  0.00000000  0.50000000  0.55265900  1
+  Zr  Zr6  1  0.00000000  0.00000000  0.69734100  1
+  Zr  Zr7  1  0.50000000  0.50000000  0.80265900  1
+  Ga  Ga8  1  0.00000000  0.00000000  0.16495200  1
+  Ga  Ga9  1  0.00000000  0.50000000  0.08504800  1
+  Ga  Ga10  1  0.00000000  0.50000000  0.41495200  1
+  Ga  Ga11  1  0.50000000  0.50000000  0.33504800  1
+  Ga  Ga12  1  0.50000000  0.50000000  0.66495200  1
+  Ga  Ga13  1  0.50000000  0.00000000  0.58504800  1
+  Ga  Ga14  1  0.50000000  0.00000000  0.91495200  1
+  Ga  Ga15  1  0.00000000  0.00000000  0.83504800  1

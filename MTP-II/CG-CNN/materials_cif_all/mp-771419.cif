@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li3NiAsCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07671061
+_cell_length_b   6.57018101
+_cell_length_c   8.50757049
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.67869622
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3NiAsCO7
+_chemical_formula_sum   'Li6 Ni2 As2 C2 O14'
+_cell_volume   282.82364753
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.77877150  0.75000000  0.40295550  1
+  Li  Li1  1  0.22122850  0.25000000  0.59704450  1
+  Li  Li2  1  0.24798600  0.98101800  0.23166050  1
+  Li  Li3  1  0.24798600  0.51898200  0.23166050  1
+  Li  Li4  1  0.75201400  0.48101800  0.76833950  1
+  Li  Li5  1  0.75201400  0.01898200  0.76833950  1
+  Ni  Ni6  1  0.79267400  0.25000000  0.17912100  1
+  Ni  Ni7  1  0.20732600  0.75000000  0.82087900  1
+  As  As8  1  0.72068000  0.75000000  0.08310050  1
+  As  As9  1  0.27932000  0.25000000  0.91689950  1
+  C  C10  1  0.68932100  0.25000000  0.46691350  1
+  C  C11  1  0.31067900  0.75000000  0.53308650  1
+  O  O12  1  0.37398650  0.75000000  0.38819400  1
+  O  O13  1  0.62601350  0.25000000  0.61180600  1
+  O  O14  1  0.93340500  0.25000000  0.43237600  1
+  O  O15  1  0.06659500  0.75000000  0.56762400  1
+  O  O16  1  0.50529750  0.25000000  0.35068550  1
+  O  O17  1  0.49470250  0.75000000  0.64931450  1
+  O  O18  1  0.37876550  0.75000000  0.05579800  1
+  O  O19  1  0.62123450  0.25000000  0.94420200  1
+  O  O20  1  0.16657400  0.25000000  0.10071850  1
+  O  O21  1  0.83342600  0.75000000  0.89928150  1
+  O  O22  1  0.83285650  0.94613050  0.20551100  1
+  O  O23  1  0.83285650  0.55386950  0.20551100  1
+  O  O24  1  0.16714350  0.44613050  0.79448900  1
+  O  O25  1  0.16714350  0.05386950  0.79448900  1

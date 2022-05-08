@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3MnAsCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28446623
+_cell_length_b   7.02453002
+_cell_length_c   9.23232876
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.22378596
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3MnAsCO7
+_chemical_formula_sum   'Na6 Mn2 As2 C2 O14'
+_cell_volume   342.70966212
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24177775  0.75000000  0.58039900  1
+  Na  Na1  1  0.75822225  0.25000000  0.41960100  1
+  Na  Na2  1  0.75435425  0.99674450  0.75376200  1
+  Na  Na3  1  0.75435425  0.50325550  0.75376200  1
+  Na  Na4  1  0.24564575  0.49674450  0.24623800  1
+  Na  Na5  1  0.24564575  0.00325550  0.24623800  1
+  Mn  Mn6  1  0.22174275  0.25000000  0.85203550  1
+  Mn  Mn7  1  0.77825725  0.75000000  0.14796450  1
+  As  As8  1  0.30027875  0.75000000  0.91269850  1
+  As  As9  1  0.69972125  0.25000000  0.08730150  1
+  C  C10  1  0.26817725  0.25000000  0.55734650  1
+  C  C11  1  0.73182275  0.75000000  0.44265350  1
+  O  O12  1  0.70924075  0.75000000  0.58251850  1
+  O  O13  1  0.29075925  0.25000000  0.41748150  1
+  O  O14  1  0.04440475  0.25000000  0.61670650  1
+  O  O15  1  0.95559525  0.75000000  0.38329350  1
+  O  O16  1  0.46840825  0.25000000  0.64086250  1
+  O  O17  1  0.53159175  0.75000000  0.35913750  1
+  O  O18  1  0.62662875  0.75000000  0.93290700  1
+  O  O19  1  0.37337125  0.25000000  0.06709300  1
+  O  O20  1  0.82771725  0.25000000  0.91611950  1
+  O  O21  1  0.17228275  0.75000000  0.08388050  1
+  O  O22  1  0.21581825  0.94374650  0.80834100  1
+  O  O23  1  0.21581825  0.55625350  0.80834100  1
+  O  O24  1  0.78418175  0.44374650  0.19165900  1
+  O  O25  1  0.78418175  0.05625350  0.19165900  1

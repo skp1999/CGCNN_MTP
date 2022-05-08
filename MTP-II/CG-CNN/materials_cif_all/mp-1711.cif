@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Er3Ge4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03572200
+_cell_length_b   10.61938600
+_cell_length_c   14.22629400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3Ge4
+_chemical_formula_sum   'Er12 Ge16'
+_cell_volume   609.69471289
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.00000000  0.33084600  0.09685400  1
+  Er  Er1  1  0.50000000  0.16915400  0.90314600  1
+  Er  Er2  1  0.50000000  0.16915400  0.59685400  1
+  Er  Er3  1  0.00000000  0.33084600  0.40314600  1
+  Er  Er4  1  0.50000000  0.45243300  0.75000000  1
+  Er  Er5  1  0.00000000  0.04756700  0.25000000  1
+  Er  Er6  1  0.50000000  0.83084600  0.09685400  1
+  Er  Er7  1  0.00000000  0.66915400  0.90314600  1
+  Er  Er8  1  0.00000000  0.66915400  0.59685400  1
+  Er  Er9  1  0.50000000  0.83084600  0.40314600  1
+  Er  Er10  1  0.00000000  0.95243300  0.75000000  1
+  Er  Er11  1  0.50000000  0.54756700  0.25000000  1
+  Ge  Ge12  1  0.00000000  0.37952200  0.89162600  1
+  Ge  Ge13  1  0.50000000  0.12047800  0.10837400  1
+  Ge  Ge14  1  0.50000000  0.12047800  0.39162600  1
+  Ge  Ge15  1  0.00000000  0.37952200  0.60837400  1
+  Ge  Ge16  1  0.00000000  0.22308000  0.75000000  1
+  Ge  Ge17  1  0.50000000  0.27692000  0.25000000  1
+  Ge  Ge18  1  0.00000000  0.00000000  0.50000000  1
+  Ge  Ge19  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge20  1  0.50000000  0.87952200  0.89162600  1
+  Ge  Ge21  1  0.00000000  0.62047800  0.10837400  1
+  Ge  Ge22  1  0.00000000  0.62047800  0.39162600  1
+  Ge  Ge23  1  0.50000000  0.87952200  0.60837400  1
+  Ge  Ge24  1  0.50000000  0.72308000  0.75000000  1
+  Ge  Ge25  1  0.00000000  0.77692000  0.25000000  1
+  Ge  Ge26  1  0.50000000  0.50000000  0.50000000  1
+  Ge  Ge27  1  0.50000000  0.50000000  0.00000000  1

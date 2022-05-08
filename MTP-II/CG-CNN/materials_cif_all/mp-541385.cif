@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cs6Fe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55976734
+_cell_length_b   12.53909900
+_cell_length_c   7.47047483
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.16124199
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs6Fe2O5
+_chemical_formula_sum   'Cs12 Fe4 O10'
+_cell_volume   705.27507067
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.35593775  0.00000000  0.18838250  1
+  Cs  Cs1  1  0.64406225  0.00000000  0.81161750  1
+  Cs  Cs2  1  0.50000000  0.25830150  0.50000000  1
+  Cs  Cs3  1  0.50000000  0.74169850  0.50000000  1
+  Cs  Cs4  1  0.50000000  0.71322200  0.00000000  1
+  Cs  Cs5  1  0.50000000  0.28677800  0.00000000  1
+  Cs  Cs6  1  0.85593775  0.50000000  0.18838250  1
+  Cs  Cs7  1  0.14406225  0.50000000  0.81161750  1
+  Cs  Cs8  1  0.00000000  0.75830150  0.50000000  1
+  Cs  Cs9  1  0.00000000  0.24169850  0.50000000  1
+  Cs  Cs10  1  0.00000000  0.21322200  0.00000000  1
+  Cs  Cs11  1  0.00000000  0.78677800  0.00000000  1
+  Fe  Fe12  1  0.19646875  0.00000000  0.68530450  1
+  Fe  Fe13  1  0.80353125  0.00000000  0.31469550  1
+  Fe  Fe14  1  0.69646875  0.50000000  0.68530450  1
+  Fe  Fe15  1  0.30353125  0.50000000  0.31469550  1
+  O  O16  1  0.00000000  0.00000000  0.50000000  1
+  O  O17  1  0.70141800  0.13074650  0.22492850  1
+  O  O18  1  0.29858200  0.13074650  0.77507150  1
+  O  O19  1  0.29858200  0.86925350  0.77507150  1
+  O  O20  1  0.70141800  0.86925350  0.22492850  1
+  O  O21  1  0.50000000  0.50000000  0.50000000  1
+  O  O22  1  0.20141800  0.63074650  0.22492850  1
+  O  O23  1  0.79858200  0.63074650  0.77507150  1
+  O  O24  1  0.79858200  0.36925350  0.77507150  1
+  O  O25  1  0.20141800  0.36925350  0.22492850  1

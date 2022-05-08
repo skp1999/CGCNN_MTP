@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3CrBAsO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36265565
+_cell_length_b   6.74521650
+_cell_length_c   9.11397498
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.01354653
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3CrBAsO7
+_chemical_formula_sum   'Na6 Cr2 B2 As2 O14'
+_cell_volume   329.46963699
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24211050  0.75000000  0.57251000  1
+  Na  Na1  1  0.75788950  0.25000000  0.42749000  1
+  Na  Na2  1  0.75139550  0.99956750  0.74404000  1
+  Na  Na3  1  0.75139550  0.50043250  0.74404000  1
+  Na  Na4  1  0.24860450  0.49956750  0.25596000  1
+  Na  Na5  1  0.24860450  0.00043250  0.25596000  1
+  Cr  Cr6  1  0.21870500  0.25000000  0.82822650  1
+  Cr  Cr7  1  0.78129500  0.75000000  0.17177350  1
+  B  B8  1  0.27491550  0.25000000  0.56440350  1
+  B  B9  1  0.72508450  0.75000000  0.43559650  1
+  As  As10  1  0.28546500  0.75000000  0.92414000  1
+  As  As11  1  0.71453500  0.25000000  0.07586000  1
+  O  O12  1  0.69058850  0.75000000  0.58106900  1
+  O  O13  1  0.30941150  0.25000000  0.41893100  1
+  O  O14  1  0.04061800  0.25000000  0.63043700  1
+  O  O15  1  0.95938200  0.75000000  0.36956300  1
+  O  O16  1  0.47006500  0.25000000  0.67261350  1
+  O  O17  1  0.52993500  0.75000000  0.32738650  1
+  O  O18  1  0.60275150  0.75000000  0.96640500  1
+  O  O19  1  0.39724850  0.25000000  0.03359500  1
+  O  O20  1  0.87072200  0.25000000  0.91570400  1
+  O  O21  1  0.12927800  0.75000000  0.08429600  1
+  O  O22  1  0.21038050  0.94665800  0.81001650  1
+  O  O23  1  0.21038050  0.55334200  0.81001650  1
+  O  O24  1  0.78961950  0.44665800  0.18998350  1
+  O  O25  1  0.78961950  0.05334200  0.18998350  1

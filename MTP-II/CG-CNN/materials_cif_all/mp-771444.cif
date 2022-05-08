@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li3MnAsCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09587220
+_cell_length_b   6.83516701
+_cell_length_c   8.67382501
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.51697528
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3MnAsCO7
+_chemical_formula_sum   'Li6 Mn2 As2 C2 O14'
+_cell_volume   301.82772396
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75597850  0.75000000  0.07919050  1
+  Li  Li1  1  0.24402150  0.25000000  0.92080950  1
+  Li  Li2  1  0.27640300  0.96283450  0.27652200  1
+  Li  Li3  1  0.27640300  0.53716550  0.27652200  1
+  Li  Li4  1  0.72359700  0.46283450  0.72347800  1
+  Li  Li5  1  0.72359700  0.03716550  0.72347800  1
+  Mn  Mn6  1  0.72616900  0.25000000  0.32567600  1
+  Mn  Mn7  1  0.27383100  0.75000000  0.67432400  1
+  As  As8  1  0.78944050  0.75000000  0.41594750  1
+  As  As9  1  0.21055950  0.25000000  0.58405250  1
+  C  C10  1  0.78669100  0.25000000  0.02101300  1
+  C  C11  1  0.21330900  0.75000000  0.97898700  1
+  O  O12  1  0.15976600  0.75000000  0.12492350  1
+  O  O13  1  0.84023400  0.25000000  0.87507650  1
+  O  O14  1  0.54793300  0.25000000  0.06554650  1
+  O  O15  1  0.45206700  0.75000000  0.93445350  1
+  O  O16  1  0.98160300  0.25000000  0.12338150  1
+  O  O17  1  0.01839700  0.75000000  0.87661850  1
+  O  O18  1  0.12974900  0.75000000  0.43330900  1
+  O  O19  1  0.87025100  0.25000000  0.56669100  1
+  O  O20  1  0.30784400  0.25000000  0.39650500  1
+  O  O21  1  0.69215600  0.75000000  0.60349500  1
+  O  O22  1  0.67686050  0.94273850  0.30387450  1
+  O  O23  1  0.67686050  0.55726150  0.30387450  1
+  O  O24  1  0.32313950  0.44273850  0.69612550  1
+  O  O25  1  0.32313950  0.05726150  0.69612550  1

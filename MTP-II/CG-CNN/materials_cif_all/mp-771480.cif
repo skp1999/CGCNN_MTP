@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3CoBAsO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29307494
+_cell_length_b   6.82614906
+_cell_length_c   9.11858906
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.06416604
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3CoBAsO7
+_chemical_formula_sum   'Na6 Co2 B2 As2 O14'
+_cell_volume   329.40982049
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.76012025  0.75000000  0.91862775  1
+  Na  Na1  1  0.23987975  0.25000000  0.08137225  1
+  Na  Na2  1  0.24424825  0.00016450  0.75534775  1
+  Na  Na3  1  0.24424825  0.49983550  0.75534775  1
+  Na  Na4  1  0.75575175  0.50016450  0.24465225  1
+  Na  Na5  1  0.75575175  0.99983550  0.24465225  1
+  Co  Co6  1  0.77669625  0.25000000  0.66613175  1
+  Co  Co7  1  0.22330375  0.75000000  0.33386825  1
+  B  B8  1  0.73887825  0.25000000  0.93642975  1
+  B  B9  1  0.26112175  0.75000000  0.06357025  1
+  As  As10  1  0.71369975  0.75000000  0.57553875  1
+  As  As11  1  0.28630025  0.25000000  0.42446125  1
+  O  O12  1  0.31267275  0.75000000  0.91949125  1
+  O  O13  1  0.68732725  0.25000000  0.08050875  1
+  O  O14  1  0.97637425  0.25000000  0.87493325  1
+  O  O15  1  0.02362575  0.75000000  0.12506675  1
+  O  O16  1  0.54527775  0.25000000  0.82551875  1
+  O  O17  1  0.45472225  0.75000000  0.17448125  1
+  O  O18  1  0.39160425  0.75000000  0.53749125  1
+  O  O19  1  0.60839575  0.25000000  0.46250875  1
+  O  O20  1  0.13088975  0.25000000  0.58797325  1
+  O  O21  1  0.86911025  0.75000000  0.41202675  1
+  O  O22  1  0.79127025  0.94567700  0.68670925  1
+  O  O23  1  0.79127025  0.55432300  0.68670925  1
+  O  O24  1  0.20872975  0.44567700  0.31329075  1
+  O  O25  1  0.20872975  0.05432300  0.31329075  1

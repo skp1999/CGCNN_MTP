@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SmNiGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13892400
+_cell_length_b   21.82578600
+_cell_length_c   4.14318600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmNiGe3
+_chemical_formula_sum   'Sm4 Ni4 Ge12'
+_cell_volume   374.27582387
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.83111800  0.50000000  1
+  Sm  Sm1  1  0.50000000  0.66888200  0.50000000  1
+  Sm  Sm2  1  0.50000000  0.33111800  0.50000000  1
+  Sm  Sm3  1  0.00000000  0.16888200  0.50000000  1
+  Ni  Ni4  1  0.00000000  0.60964700  0.00000000  1
+  Ni  Ni5  1  0.50000000  0.89035300  0.00000000  1
+  Ni  Ni6  1  0.50000000  0.10964700  0.00000000  1
+  Ni  Ni7  1  0.00000000  0.39035300  0.00000000  1
+  Ge  Ge8  1  0.50000000  0.55707000  0.00000000  1
+  Ge  Ge9  1  0.00000000  0.94293000  0.00000000  1
+  Ge  Ge10  1  0.50000000  0.78369200  0.00000000  1
+  Ge  Ge11  1  0.00000000  0.71630800  0.00000000  1
+  Ge  Ge12  1  0.50000000  0.94298300  0.50000000  1
+  Ge  Ge13  1  0.00000000  0.55701700  0.50000000  1
+  Ge  Ge14  1  0.00000000  0.05707000  0.00000000  1
+  Ge  Ge15  1  0.50000000  0.44293000  0.00000000  1
+  Ge  Ge16  1  0.00000000  0.28369200  0.00000000  1
+  Ge  Ge17  1  0.50000000  0.21630800  0.00000000  1
+  Ge  Ge18  1  0.00000000  0.44298300  0.50000000  1
+  Ge  Ge19  1  0.50000000  0.05701700  0.50000000  1

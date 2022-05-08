@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_La4B4Cl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   16.79868400
+_cell_length_b   4.28721200
+_cell_length_c   9.37609022
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   120.61825285
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4B4Cl5
+_chemical_formula_sum   'La8 B8 Cl10'
+_cell_volume   581.11642943
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.33993800  0.50000000  0.76327300  1
+  La  La1  1  0.93955200  0.50000000  0.20235100  1
+  La  La2  1  0.06044800  0.50000000  0.79764900  1
+  La  La3  1  0.66006200  0.50000000  0.23672700  1
+  La  La4  1  0.83993800  0.00000000  0.76327300  1
+  La  La5  1  0.43955200  0.00000000  0.20235100  1
+  La  La6  1  0.56044800  0.00000000  0.79764900  1
+  La  La7  1  0.16006200  0.00000000  0.23672700  1
+  B  B8  1  0.97602300  0.00000000  0.07682100  1
+  B  B9  1  0.00000000  0.31463300  0.00000000  1
+  B  B10  1  0.02397700  0.00000000  0.92317900  1
+  B  B11  1  0.00000000  0.68536700  0.00000000  1
+  B  B12  1  0.47602300  0.50000000  0.07682100  1
+  B  B13  1  0.50000000  0.81463300  0.00000000  1
+  B  B14  1  0.52397700  0.50000000  0.92317900  1
+  B  B15  1  0.50000000  0.18536700  0.00000000  1
+  Cl  Cl16  1  0.75258900  0.00000000  0.15167400  1
+  Cl  Cl17  1  0.00000000  0.00000000  0.50000000  1
+  Cl  Cl18  1  0.14880700  0.50000000  0.44334000  1
+  Cl  Cl19  1  0.85119300  0.50000000  0.55666000  1
+  Cl  Cl20  1  0.24741100  0.00000000  0.84832600  1
+  Cl  Cl21  1  0.25258900  0.50000000  0.15167400  1
+  Cl  Cl22  1  0.50000000  0.50000000  0.50000000  1
+  Cl  Cl23  1  0.64880700  0.00000000  0.44334000  1
+  Cl  Cl24  1  0.35119300  0.00000000  0.55666000  1
+  Cl  Cl25  1  0.74741100  0.50000000  0.84832600  1

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_KNiH9(CO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36611519
+_cell_length_b   6.67419604
+_cell_length_c   7.08509715
+_cell_angle_alpha   114.79107577
+_cell_angle_beta   90.93904692
+_cell_angle_gamma   107.36281478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNiH9(CO5)2
+_chemical_formula_sum   'K1 Ni1 H9 C2 O10'
+_cell_volume   216.91525772
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.50000000  0.50000000  0.50000000  1
+  H  H2  1  0.00000000  0.50000000  0.00000000  1
+  H  H3  1  0.36473950  0.73844050  0.86749800  1
+  H  H4  1  0.63526050  0.26155950  0.13250200  1
+  H  H5  1  0.42637500  0.91028300  0.75264950  1
+  H  H6  1  0.57362500  0.08971700  0.24735050  1
+  H  H7  1  0.00866850  0.33834150  0.57778000  1
+  H  H8  1  0.99133150  0.66165850  0.42222000  1
+  H  H9  1  0.20610000  0.20612100  0.59980100  1
+  H  H10  1  0.79390000  0.79387900  0.40019900  1
+  C  C11  1  0.63275900  0.30587500  0.79500250  1
+  C  C12  1  0.36724100  0.69412500  0.20499750  1
+  O  O13  1  0.46966350  0.78102150  0.76678500  1
+  O  O14  1  0.53033650  0.21897850  0.23321500  1
+  O  O15  1  0.14296150  0.27078450  0.51007900  1
+  O  O16  1  0.85703850  0.72921550  0.48992100  1
+  O  O17  1  0.72069500  0.42917200  0.69562900  1
+  O  O18  1  0.27930500  0.57082800  0.30437100  1
+  O  O19  1  0.39748600  0.15935700  0.75203750  1
+  O  O20  1  0.60251400  0.84064300  0.24796250  1
+  O  O21  1  0.79903500  0.33179100  0.95181550  1
+  O  O22  1  0.20096500  0.66820900  0.04818450  1

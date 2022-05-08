@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CrHO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.05823636
+_cell_length_b   3.05823636
+_cell_length_c   13.49225940
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrHO2
+_chemical_formula_sum   'Cr3 H3 O6'
+_cell_volume   109.28420755
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.33333333  0.66666667  0.66447642  1
+  Cr  Cr1  1  0.00000000  0.00000000  0.99780975  1
+  Cr  Cr2  1  0.66666667  0.33333333  0.33114308  1
+  H  H3  1  0.00000000  0.00000000  0.48773175  1
+  H  H4  1  0.66666667  0.33333333  0.82106508  1
+  H  H5  1  0.33333333  0.66666667  0.15439842  1
+  O  O6  1  0.00000000  0.00000000  0.59274242  1
+  O  O7  1  0.00000000  0.00000000  0.40826275  1
+  O  O8  1  0.66666667  0.33333333  0.92607575  1
+  O  O9  1  0.66666667  0.33333333  0.74159608  1
+  O  O10  1  0.33333333  0.66666667  0.25940908  1
+  O  O11  1  0.33333333  0.66666667  0.07492942  1

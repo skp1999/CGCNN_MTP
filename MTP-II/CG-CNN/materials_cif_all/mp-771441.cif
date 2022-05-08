@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_NaLi2MnPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10696011
+_cell_length_b   6.78662397
+_cell_length_c   8.74144082
+_cell_angle_alpha   95.76192466
+_cell_angle_beta   92.74091453
+_cell_angle_gamma   90.46120089
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi2MnPCO7
+_chemical_formula_sum   'Na2 Li4 Mn2 P2 C2 O14'
+_cell_volume   301.06901976
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25306700  0.51565200  0.75669700  1
+  Na  Na1  1  0.74693300  0.48434800  0.24330300  1
+  Li  Li2  1  0.74420200  0.18634700  0.90998200  1
+  Li  Li3  1  0.23353400  0.05758800  0.70973300  1
+  Li  Li4  1  0.76646600  0.94241200  0.29026700  1
+  Li  Li5  1  0.25579800  0.81365300  0.09001800  1
+  Mn  Mn6  1  0.78004500  0.76890300  0.64773300  1
+  Mn  Mn7  1  0.21995500  0.23109700  0.35226700  1
+  P  P8  1  0.72006200  0.25051000  0.58558000  1
+  P  P9  1  0.27993800  0.74949000  0.41442000  1
+  C  C10  1  0.72421100  0.76745900  0.96302700  1
+  C  C11  1  0.27578900  0.23254100  0.03697300  1
+  O  O12  1  0.35751600  0.23930900  0.89901900  1
+  O  O13  1  0.97019900  0.76254300  0.93388400  1
+  O  O14  1  0.54933000  0.78267400  0.85063900  1
+  O  O15  1  0.83142200  0.09456200  0.69193300  1
+  O  O16  1  0.80622300  0.45620400  0.66286200  1
+  O  O17  1  0.41407200  0.23212500  0.57343000  1
+  O  O18  1  0.18133300  0.78791100  0.58060900  1
+  O  O19  1  0.81866700  0.21208900  0.41939100  1
+  O  O20  1  0.58592800  0.76787500  0.42657000  1
+  O  O21  1  0.19377700  0.54379600  0.33713800  1
+  O  O22  1  0.16857800  0.90543800  0.30806700  1
+  O  O23  1  0.45067000  0.21732600  0.14936100  1
+  O  O24  1  0.02980100  0.23745700  0.06611600  1
+  O  O25  1  0.64248400  0.76069100  0.10098100  1

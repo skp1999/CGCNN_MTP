@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CaSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84369793
+_cell_length_b   3.84369793
+_cell_length_c   15.86464477
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSi2
+_chemical_formula_sum   'Ca3 Si6'
+_cell_volume   202.98291416
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca1  1  0.66666667  0.33333333  0.33333333  1
+  Ca  Ca2  1  0.33333333  0.66666667  0.66666667  1
+  Si  Si3  1  0.66666667  0.33333333  0.13600333  1
+  Si  Si4  1  0.00000000  0.00000000  0.19733000  1
+  Si  Si5  1  0.33333333  0.66666667  0.46933667  1
+  Si  Si6  1  0.66666667  0.33333333  0.53066333  1
+  Si  Si7  1  0.00000000  0.00000000  0.80267000  1
+  Si  Si8  1  0.33333333  0.66666667  0.86399667  1

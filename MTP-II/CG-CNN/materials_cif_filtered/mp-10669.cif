@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3(AlGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36821000
+_cell_length_b   5.15846400
+_cell_length_c   20.23079000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3(AlGe)2
+_chemical_formula_sum   'Ba6 Al4 Ge4'
+_cell_volume   455.86553029
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.81652900  1
+  Ba  Ba1  1  0.50000000  0.00000000  0.00000000  1
+  Ba  Ba2  1  0.50000000  0.50000000  0.68347100  1
+  Ba  Ba3  1  0.50000000  0.50000000  0.31652900  1
+  Ba  Ba4  1  0.00000000  0.50000000  0.50000000  1
+  Ba  Ba5  1  0.00000000  0.00000000  0.18347100  1
+  Al  Al6  1  0.00000000  0.50000000  0.93556700  1
+  Al  Al7  1  0.50000000  0.00000000  0.56443300  1
+  Al  Al8  1  0.50000000  0.00000000  0.43556700  1
+  Al  Al9  1  0.00000000  0.50000000  0.06443300  1
+  Ge  Ge10  1  0.50000000  0.50000000  0.86500600  1
+  Ge  Ge11  1  0.00000000  0.00000000  0.63499400  1
+  Ge  Ge12  1  0.00000000  0.00000000  0.36500600  1
+  Ge  Ge13  1  0.50000000  0.50000000  0.13499400  1

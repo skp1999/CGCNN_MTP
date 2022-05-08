@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_YCu2Bi2(SeO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90326600
+_cell_length_b   3.90326600
+_cell_length_c   24.97496800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCu2Bi2(SeO2)2
+_chemical_formula_sum   'Y2 Cu4 Bi4 Se4 O8'
+_cell_volume   380.50576200
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1
+  Y  Y1  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu2  1  0.00000000  0.50000000  0.25000000  1
+  Cu  Cu3  1  0.50000000  0.00000000  0.25000000  1
+  Cu  Cu4  1  0.50000000  0.00000000  0.75000000  1
+  Cu  Cu5  1  0.00000000  0.50000000  0.75000000  1
+  Bi  Bi6  1  0.00000000  0.00000000  0.39906300  1
+  Bi  Bi7  1  0.50000000  0.50000000  0.10093700  1
+  Bi  Bi8  1  0.50000000  0.50000000  0.89906300  1
+  Bi  Bi9  1  0.00000000  0.00000000  0.60093700  1
+  Se  Se10  1  0.50000000  0.50000000  0.31054000  1
+  Se  Se11  1  0.00000000  0.00000000  0.18946000  1
+  Se  Se12  1  0.00000000  0.00000000  0.81054000  1
+  Se  Se13  1  0.50000000  0.50000000  0.68946000  1
+  O  O14  1  0.50000000  0.00000000  0.05575100  1
+  O  O15  1  0.50000000  0.00000000  0.44424900  1
+  O  O16  1  0.00000000  0.50000000  0.05575100  1
+  O  O17  1  0.00000000  0.50000000  0.44424900  1
+  O  O18  1  0.00000000  0.50000000  0.55575100  1
+  O  O19  1  0.00000000  0.50000000  0.94424900  1
+  O  O20  1  0.50000000  0.00000000  0.55575100  1
+  O  O21  1  0.50000000  0.00000000  0.94424900  1

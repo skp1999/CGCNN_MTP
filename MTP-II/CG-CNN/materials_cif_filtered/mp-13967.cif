@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Nb5(CuSi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.24526200
+_cell_length_b   10.24526200
+_cell_length_c   3.61273600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb5(CuSi)4
+_chemical_formula_sum   'Nb10 Cu8 Si8'
+_cell_volume   379.21225567
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000000  0.00000000  0.50000000  1
+  Nb  Nb1  1  0.37083000  0.30415100  0.50000000  1
+  Nb  Nb2  1  0.80415100  0.12917000  0.00000000  1
+  Nb  Nb3  1  0.19584900  0.87083000  0.00000000  1
+  Nb  Nb4  1  0.62917000  0.69584900  0.50000000  1
+  Nb  Nb5  1  0.50000000  0.50000000  0.00000000  1
+  Nb  Nb6  1  0.87083000  0.80415100  0.00000000  1
+  Nb  Nb7  1  0.30415100  0.62917000  0.50000000  1
+  Nb  Nb8  1  0.69584900  0.37083000  0.50000000  1
+  Nb  Nb9  1  0.12917000  0.19584900  0.00000000  1
+  Cu  Cu10  1  0.60368300  0.91792900  0.00000000  1
+  Cu  Cu11  1  0.39631700  0.08207100  0.00000000  1
+  Cu  Cu12  1  0.58207100  0.10368300  0.50000000  1
+  Cu  Cu13  1  0.41792900  0.89631700  0.50000000  1
+  Cu  Cu14  1  0.10368300  0.41792900  0.50000000  1
+  Cu  Cu15  1  0.89631700  0.58207100  0.50000000  1
+  Cu  Cu16  1  0.08207100  0.60368300  0.00000000  1
+  Cu  Cu17  1  0.91792900  0.39631700  0.00000000  1
+  Si  Si18  1  0.25262600  0.05914900  0.50000000  1
+  Si  Si19  1  0.55914900  0.24737400  0.00000000  1
+  Si  Si20  1  0.44085100  0.75262600  0.00000000  1
+  Si  Si21  1  0.74737400  0.94085100  0.50000000  1
+  Si  Si22  1  0.75262600  0.55914900  0.00000000  1
+  Si  Si23  1  0.05914900  0.74737400  0.50000000  1
+  Si  Si24  1  0.94085100  0.25262600  0.50000000  1
+  Si  Si25  1  0.24737400  0.44085100  0.00000000  1

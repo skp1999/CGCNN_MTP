@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Gd2AlGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.32739000
+_cell_length_b   5.69816800
+_cell_length_c   7.78628212
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.21272769
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2AlGe2
+_chemical_formula_sum   'Gd8 Al4 Ge8'
+_cell_volume   442.14475403
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.85497450  0.62981250  0.35287700  1
+  Gd  Gd1  1  0.64502550  0.87018750  0.64712300  1
+  Gd  Gd2  1  0.85497450  0.37018750  0.85287700  1
+  Gd  Gd3  1  0.64502550  0.12981250  0.14712300  1
+  Gd  Gd4  1  0.35497450  0.12981250  0.35287700  1
+  Gd  Gd5  1  0.14502550  0.37018750  0.64712300  1
+  Gd  Gd6  1  0.35497450  0.87018750  0.85287700  1
+  Gd  Gd7  1  0.14502550  0.62981250  0.14712300  1
+  Al  Al8  1  0.00000000  0.83672600  0.75000000  1
+  Al  Al9  1  0.00000000  0.16327400  0.25000000  1
+  Al  Al10  1  0.50000000  0.33672600  0.75000000  1
+  Al  Al11  1  0.50000000  0.66327400  0.25000000  1
+  Ge  Ge12  1  0.86279950  0.12851750  0.50182500  1
+  Ge  Ge13  1  0.63720050  0.37148250  0.49817500  1
+  Ge  Ge14  1  0.86279950  0.87148250  0.00182500  1
+  Ge  Ge15  1  0.63720050  0.62851750  0.99817500  1
+  Ge  Ge16  1  0.36279950  0.62851750  0.50182500  1
+  Ge  Ge17  1  0.13720050  0.87148250  0.49817500  1
+  Ge  Ge18  1  0.36279950  0.37148250  0.00182500  1
+  Ge  Ge19  1  0.13720050  0.12851750  0.99817500  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3CrSiBO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32316028
+_cell_length_b   6.48333300
+_cell_length_c   8.95863939
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.11675581
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3CrSiBO7
+_chemical_formula_sum   'Na6 Cr2 Si2 B2 O14'
+_cell_volume   308.96798358
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.73702800  0.75000000  0.07967650  1
+  Na  Na1  1  0.26297200  0.25000000  0.92032350  1
+  Na  Na2  1  0.24288600  0.99153800  0.26088050  1
+  Na  Na3  1  0.24288600  0.50846200  0.26088050  1
+  Na  Na4  1  0.75711400  0.49153800  0.73911950  1
+  Na  Na5  1  0.75711400  0.00846200  0.73911950  1
+  Cr  Cr6  1  0.28779400  0.75000000  0.66684550  1
+  Cr  Cr7  1  0.71220600  0.25000000  0.33315450  1
+  Si  Si8  1  0.78262500  0.75000000  0.42837150  1
+  Si  Si9  1  0.21737500  0.25000000  0.57162850  1
+  B  B10  1  0.77071500  0.25000000  0.06663150  1
+  B  B11  1  0.22928500  0.75000000  0.93336850  1
+  O  O12  1  0.18682400  0.75000000  0.07966850  1
+  O  O13  1  0.81317600  0.25000000  0.92033150  1
+  O  O14  1  0.53476100  0.25000000  0.13162950  1
+  O  O15  1  0.46523900  0.75000000  0.86837050  1
+  O  O16  1  0.96278900  0.25000000  0.18145150  1
+  O  O17  1  0.03721100  0.75000000  0.81854850  1
+  O  O18  1  0.08345600  0.75000000  0.47663250  1
+  O  O19  1  0.91654400  0.25000000  0.52336750  1
+  O  O20  1  0.39351500  0.25000000  0.42562350  1
+  O  O21  1  0.60648500  0.75000000  0.57437650  1
+  O  O22  1  0.71576800  0.95008500  0.31943350  1
+  O  O23  1  0.71576800  0.54991500  0.31943350  1
+  O  O24  1  0.28423200  0.45008500  0.68056650  1
+  O  O25  1  0.28423200  0.04991500  0.68056650  1

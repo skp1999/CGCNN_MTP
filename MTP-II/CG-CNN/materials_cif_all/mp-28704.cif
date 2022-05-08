@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Cr4As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.01927000
+_cell_length_b   3.57248800
+_cell_length_c   9.32520323
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.64598662
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr4As3
+_chemical_formula_sum   'Cr16 As12'
+_cell_volume   421.48301729
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr1  1  0.85236700  0.50000000  0.05362200  1
+  Cr  Cr2  1  0.64763300  0.00000000  0.94637800  1
+  Cr  Cr3  1  0.78257300  0.00000000  0.33394300  1
+  Cr  Cr4  1  0.71742700  0.50000000  0.66605700  1
+  Cr  Cr5  1  0.56665700  0.00000000  0.20268100  1
+  Cr  Cr6  1  0.93334300  0.50000000  0.79731900  1
+  Cr  Cr7  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr8  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr9  1  0.35236700  0.00000000  0.05362200  1
+  Cr  Cr10  1  0.14763300  0.50000000  0.94637800  1
+  Cr  Cr11  1  0.28257300  0.50000000  0.33394300  1
+  Cr  Cr12  1  0.21742700  0.00000000  0.66605700  1
+  Cr  Cr13  1  0.06665700  0.50000000  0.20268100  1
+  Cr  Cr14  1  0.43334300  0.00000000  0.79731900  1
+  Cr  Cr15  1  0.50000000  0.50000000  0.00000000  1
+  As  As16  1  0.93802500  0.00000000  0.22875400  1
+  As  As17  1  0.56197500  0.50000000  0.77124600  1
+  As  As18  1  0.63951100  0.00000000  0.47991100  1
+  As  As19  1  0.86048900  0.50000000  0.52008900  1
+  As  As20  1  0.68905000  0.50000000  0.14976200  1
+  As  As21  1  0.81095000  0.00000000  0.85023800  1
+  As  As22  1  0.43802500  0.50000000  0.22875400  1
+  As  As23  1  0.06197500  0.00000000  0.77124600  1
+  As  As24  1  0.13951100  0.50000000  0.47991100  1
+  As  As25  1  0.36048900  0.00000000  0.52008900  1
+  As  As26  1  0.18905000  0.00000000  0.14976200  1
+  As  As27  1  0.31095000  0.50000000  0.85023800  1

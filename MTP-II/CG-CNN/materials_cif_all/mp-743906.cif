@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_La5MnRe3O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70811662
+_cell_length_b   5.71787222
+_cell_length_c   10.30257427
+_cell_angle_alpha   93.70092515
+_cell_angle_beta   93.68519405
+_cell_angle_gamma   90.65546772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5MnRe3O16
+_chemical_formula_sum   'La5 Mn1 Re3 O16'
+_cell_volume   334.82220402
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.50000000  1
+  La  La1  1  0.51229425  0.02760700  0.20099025  1
+  La  La2  1  0.48770575  0.97239300  0.79900975  1
+  La  La3  1  0.03245725  0.50529375  0.20993000  1
+  La  La4  1  0.96754275  0.49470625  0.79007000  1
+  Mn  Mn5  1  0.50000000  0.50000000  0.00000000  1
+  Re  Re6  1  0.00000000  0.00000000  0.00000000  1
+  Re  Re7  1  0.44646425  0.44569775  0.60540700  1
+  Re  Re8  1  0.55353575  0.55430225  0.39459300  1
+  O  O9  1  0.31004575  0.30554825  0.43420400  1
+  O  O10  1  0.68995425  0.69445175  0.56579600  1
+  O  O11  1  0.22580700  0.22023475  0.67531075  1
+  O  O12  1  0.77419300  0.77976525  0.32468925  1
+  O  O13  1  0.54843200  0.54859125  0.79851125  1
+  O  O14  1  0.45156800  0.45140875  0.20148875  1
+  O  O15  1  0.92457025  0.92243400  0.81734725  1
+  O  O16  1  0.07542975  0.07756600  0.18265275  1
+  O  O17  1  0.70329875  0.22906500  0.63538175  1
+  O  O18  1  0.29670125  0.77093500  0.36461825  1
+  O  O19  1  0.22248825  0.69603325  0.63459350  1
+  O  O20  1  0.77751175  0.30396675  0.36540650  1
+  O  O21  1  0.30334525  0.82024775  0.99645400  1
+  O  O22  1  0.69665475  0.17975225  0.00354600  1
+  O  O23  1  0.82811500  0.71172975  0.03786875  1
+  O  O24  1  0.17188500  0.28827025  0.96213125  1

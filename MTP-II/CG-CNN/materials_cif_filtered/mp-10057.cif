@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_VCoB3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.01216600
+_cell_length_b   17.49040200
+_cell_length_c   2.97918100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VCoB3
+_chemical_formula_sum   'V4 Co4 B12'
+_cell_volume   156.95515462
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.00000000  0.07441600  0.75000000  1
+  V  V1  1  0.50000000  0.42558400  0.25000000  1
+  V  V2  1  0.50000000  0.57441600  0.75000000  1
+  V  V3  1  0.00000000  0.92558400  0.25000000  1
+  Co  Co4  1  0.50000000  0.29616000  0.75000000  1
+  Co  Co5  1  0.00000000  0.20384000  0.25000000  1
+  Co  Co6  1  0.00000000  0.79616000  0.75000000  1
+  Co  Co7  1  0.50000000  0.70384000  0.25000000  1
+  B  B8  1  0.00000000  0.37544500  0.75000000  1
+  B  B9  1  0.50000000  0.12455500  0.25000000  1
+  B  B10  1  0.00000000  0.47497900  0.75000000  1
+  B  B11  1  0.50000000  0.02502100  0.25000000  1
+  B  B12  1  0.00000000  0.32086400  0.25000000  1
+  B  B13  1  0.50000000  0.17913600  0.75000000  1
+  B  B14  1  0.50000000  0.87544500  0.75000000  1
+  B  B15  1  0.00000000  0.62455500  0.25000000  1
+  B  B16  1  0.50000000  0.97497900  0.75000000  1
+  B  B17  1  0.00000000  0.52502100  0.25000000  1
+  B  B18  1  0.50000000  0.82086400  0.25000000  1
+  B  B19  1  0.00000000  0.67913600  0.75000000  1

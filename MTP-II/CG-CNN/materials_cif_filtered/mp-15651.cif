@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NiSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.00134870
+_cell_length_b   10.00134870
+_cell_length_c   3.33495249
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiSe
+_chemical_formula_sum   'Ni9 Se9'
+_cell_volume   288.89326747
+_cell_formula_units_Z   9
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.24802100  0.49604200  0.75956500  1
+  Ni  Ni1  1  0.24802100  0.75197900  0.75956500  1
+  Ni  Ni2  1  0.17062467  0.08531233  0.09289833  1
+  Ni  Ni3  1  0.91468767  0.82937533  0.09289833  1
+  Ni  Ni4  1  0.91468767  0.08531233  0.09289833  1
+  Ni  Ni5  1  0.83729133  0.41864567  0.42623167  1
+  Ni  Ni6  1  0.58135433  0.16270867  0.42623167  1
+  Ni  Ni7  1  0.58135433  0.41864567  0.42623167  1
+  Ni  Ni8  1  0.50395800  0.75197900  0.75956500  1
+  Se  Se9  1  0.11326333  0.22652667  0.61110167  1
+  Se  Se10  1  0.11326333  0.88673667  0.61110167  1
+  Se  Se11  1  0.44014000  0.22007000  0.94443500  1
+  Se  Se12  1  0.77993000  0.55986000  0.94443500  1
+  Se  Se13  1  0.77993000  0.22007000  0.94443500  1
+  Se  Se14  1  0.10680667  0.55340333  0.27776833  1
+  Se  Se15  1  0.44659667  0.89319333  0.27776833  1
+  Se  Se16  1  0.44659667  0.55340333  0.27776833  1
+  Se  Se17  1  0.77347333  0.88673667  0.61110167  1

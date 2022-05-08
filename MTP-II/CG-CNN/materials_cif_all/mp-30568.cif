@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Zn13Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.82844600
+_cell_length_b   7.60829000
+_cell_length_c   5.05835356
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.45130030
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn13Co
+_chemical_formula_sum   'Zn26 Co2'
+_cell_volume   408.44164804
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn1  1  0.61304400  0.00000000  0.92968900  1
+  Zn  Zn2  1  0.38695600  0.00000000  0.07031100  1
+  Zn  Zn3  1  0.22139200  0.00000000  0.37241400  1
+  Zn  Zn4  1  0.77860800  0.00000000  0.62758600  1
+  Zn  Zn5  1  0.57739300  0.20641700  0.31709800  1
+  Zn  Zn6  1  0.42260700  0.20641700  0.68290200  1
+  Zn  Zn7  1  0.42260700  0.79358300  0.68290200  1
+  Zn  Zn8  1  0.57739300  0.79358300  0.31709800  1
+  Zn  Zn9  1  0.67606250  0.32070750  0.80108700  1
+  Zn  Zn10  1  0.32393750  0.32070750  0.19891300  1
+  Zn  Zn11  1  0.32393750  0.67929250  0.19891300  1
+  Zn  Zn12  1  0.67606250  0.67929250  0.80108700  1
+  Zn  Zn13  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn14  1  0.11304400  0.50000000  0.92968900  1
+  Zn  Zn15  1  0.88695600  0.50000000  0.07031100  1
+  Zn  Zn16  1  0.72139200  0.50000000  0.37241400  1
+  Zn  Zn17  1  0.27860800  0.50000000  0.62758600  1
+  Zn  Zn18  1  0.07739300  0.70641700  0.31709800  1
+  Zn  Zn19  1  0.92260700  0.70641700  0.68290200  1
+  Zn  Zn20  1  0.92260700  0.29358300  0.68290200  1
+  Zn  Zn21  1  0.07739300  0.29358300  0.31709800  1
+  Zn  Zn22  1  0.17606250  0.82070750  0.80108700  1
+  Zn  Zn23  1  0.82393750  0.82070750  0.19891300  1
+  Zn  Zn24  1  0.82393750  0.17929250  0.19891300  1
+  Zn  Zn25  1  0.17606250  0.17929250  0.80108700  1
+  Co  Co26  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co27  1  0.50000000  0.50000000  0.50000000  1

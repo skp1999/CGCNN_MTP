@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaZn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70238800
+_cell_length_b   7.58514000
+_cell_length_c   7.62718000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaZn2
+_chemical_formula_sum   'La4 Zn8'
+_cell_volume   272.04832560
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50000000  0.04281900  0.25000000  1
+  La  La1  1  0.50000000  0.95718100  0.75000000  1
+  La  La2  1  0.00000000  0.54281900  0.75000000  1
+  La  La3  1  0.00000000  0.45718100  0.25000000  1
+  Zn  Zn4  1  0.00000000  0.16489700  0.56208300  1
+  Zn  Zn5  1  0.00000000  0.83510300  0.43791700  1
+  Zn  Zn6  1  0.50000000  0.33510300  0.56208300  1
+  Zn  Zn7  1  0.50000000  0.66489700  0.43791700  1
+  Zn  Zn8  1  0.50000000  0.66489700  0.06208300  1
+  Zn  Zn9  1  0.50000000  0.33510300  0.93791700  1
+  Zn  Zn10  1  0.00000000  0.83510300  0.06208300  1
+  Zn  Zn11  1  0.00000000  0.16489700  0.93791700  1

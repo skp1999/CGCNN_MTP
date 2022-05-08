@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2MnFe(BO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16282297
+_cell_length_b   5.23538266
+_cell_length_c   6.03116328
+_cell_angle_alpha   91.00779346
+_cell_angle_beta   113.13130084
+_cell_angle_gamma   119.22843791
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2MnFe(BO3)2
+_chemical_formula_sum   'Li2 Mn1 Fe1 B2 O6'
+_cell_volume   126.29355497
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.56271950  0.62981900  0.32757750  1
+  Li  Li1  1  0.44087850  0.37452500  0.67382750  1
+  Mn  Mn2  1  0.83501950  0.24960400  0.22968550  1
+  Fe  Fe3  1  0.16108850  0.74264600  0.76319450  1
+  B  B4  1  0.18930700  0.92326250  0.26155950  1
+  B  B5  1  0.81002750  0.07607950  0.73938400  1
+  O  O6  1  0.96274300  0.69336450  0.32302550  1
+  O  O7  1  0.37348700  0.86561450  0.17180750  1
+  O  O8  1  0.24443000  0.21084750  0.29874750  1
+  O  O9  1  0.76500250  0.79418300  0.70459050  1
+  O  O10  1  0.61381550  0.12572650  0.82063300  1
+  O  O11  1  0.04148050  0.31432550  0.68596500  1

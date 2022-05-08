@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li5Ni3(SbO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24519423
+_cell_length_b   5.43121657
+_cell_length_c   7.89150648
+_cell_angle_alpha   106.46000060
+_cell_angle_beta   103.18358022
+_cell_angle_gamma   101.97963714
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5Ni3(SbO5)2
+_chemical_formula_sum   'Li5 Ni3 Sb2 O10'
+_cell_volume   200.79945074
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li1  1  0.84807300  0.49128900  0.38295300  1
+  Li  Li2  1  0.15192700  0.50871100  0.61704700  1
+  Li  Li3  1  0.60578900  0.49875900  0.80136950  1
+  Li  Li4  1  0.39421100  0.50124100  0.19863050  1
+  Ni  Ni5  1  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni6  1  0.80563500  0.99976150  0.89752400  1
+  Ni  Ni7  1  0.19436500  0.00023850  0.10247600  1
+  Sb  Sb8  1  0.40202100  0.00753850  0.70167450  1
+  Sb  Sb9  1  0.59797900  0.99246150  0.29832550  1
+  O  O10  1  0.21619400  0.22516700  0.83314800  1
+  O  O11  1  0.78380600  0.77483300  0.16685200  1
+  O  O12  1  0.40415000  0.77026600  0.94185050  1
+  O  O13  1  0.59585000  0.22973400  0.05814950  1
+  O  O14  1  0.57610600  0.77995500  0.55888100  1
+  O  O15  1  0.42389400  0.22004500  0.44111900  1
+  O  O16  1  0.98574100  0.22858850  0.24634500  1
+  O  O17  1  0.01425900  0.77141150  0.75365500  1
+  O  O18  1  0.78230300  0.24086650  0.65439850  1
+  O  O19  1  0.21769700  0.75913350  0.34560150  1

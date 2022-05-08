@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbSiAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46324000
+_cell_length_b   7.02117000
+_cell_length_c   7.65203200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbSiAu
+_chemical_formula_sum   'Yb4 Si4 Au4'
+_cell_volume   239.79300307
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.00000000  0.00000000  0.29339800  1
+  Yb  Yb1  1  0.50000000  0.00000000  0.86393800  1
+  Yb  Yb2  1  0.50000000  0.50000000  0.79339800  1
+  Yb  Yb3  1  0.00000000  0.50000000  0.36393800  1
+  Si  Si4  1  0.00000000  0.81957500  0.66008100  1
+  Si  Si5  1  0.00000000  0.18042500  0.66008100  1
+  Si  Si6  1  0.50000000  0.31957500  0.16008100  1
+  Si  Si7  1  0.50000000  0.68042500  0.16008100  1
+  Au  Au8  1  0.50000000  0.77441500  0.49215100  1
+  Au  Au9  1  0.50000000  0.22558500  0.49215100  1
+  Au  Au10  1  0.00000000  0.27441500  0.99215100  1
+  Au  Au11  1  0.00000000  0.72558500  0.99215100  1

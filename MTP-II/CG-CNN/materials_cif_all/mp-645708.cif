@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Co5Se4(ClO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57894260
+_cell_length_b   7.87422501
+_cell_length_c   8.00979065
+_cell_angle_alpha   65.75908017
+_cell_angle_beta   72.53187658
+_cell_angle_gamma   81.06755551
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co5Se4(ClO6)2
+_chemical_formula_sum   'Co5 Se4 Cl2 O12'
+_cell_volume   360.66051927
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.11215550  0.69708500  0.43592100  1
+  Co  Co2  1  0.88784450  0.30291500  0.56407900  1
+  Co  Co3  1  0.68026750  0.12696500  0.34331750  1
+  Co  Co4  1  0.31973250  0.87303500  0.65668250  1
+  Se  Se5  1  0.65214250  0.69170000  0.32435300  1
+  Se  Se6  1  0.34785750  0.30830000  0.67564700  1
+  Se  Se7  1  0.78738550  0.83857100  0.77797950  1
+  Se  Se8  1  0.21261450  0.16142900  0.22202050  1
+  Cl  Cl9  1  0.17664100  0.68888600  0.00578450  1
+  Cl  Cl10  1  0.82335900  0.31111400  0.99421550  1
+  O  O11  1  0.58357300  0.30109800  0.50713600  1
+  O  O12  1  0.41642700  0.69890200  0.49286400  1
+  O  O13  1  0.83387050  0.04634200  0.78946800  1
+  O  O14  1  0.16612950  0.95365800  0.21053200  1
+  O  O15  1  0.96369750  0.19713900  0.36147900  1
+  O  O16  1  0.03630250  0.80286100  0.63852100  1
+  O  O17  1  0.83231050  0.58601800  0.46366950  1
+  O  O18  1  0.16768950  0.41398200  0.53633050  1
+  O  O19  1  0.26212150  0.08172100  0.77606050  1
+  O  O20  1  0.73787850  0.91827900  0.22393950  1
+  O  O21  1  0.36002650  0.09776300  0.38573450  1
+  O  O22  1  0.63997350  0.90223700  0.61426550  1

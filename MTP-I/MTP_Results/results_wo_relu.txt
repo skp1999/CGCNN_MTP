@@ -1,0 +1,2700 @@
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 122.01319885253906
+Val RE : 194.83961486816406
+Test RE : 207.52468872070312
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 87.62484741210938
+Val RE : 98.74327850341797
+Test RE : 130.9293212890625
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 121.0191879272461
+Val RE : 108.85408782958984
+Test RE : 154.90032958984375
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 48.648841857910156
+Val RE : 53.87352752685547
+Test RE : 52.38883590698242
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 67.91609954833984
+Val RE : 79.36949157714844
+Test RE : 83.78865051269531
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 36.764564514160156
+Val RE : 60.552391052246094
+Test RE : 48.281681060791016
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 54.381187438964844
+Val RE : 46.25390625
+Test RE : 53.90590286254883
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 52.28314971923828
+Val RE : 61.472023010253906
+Test RE : 54.91293716430664
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 68.18419647216797
+Val RE : 68.32400512695312
+Test RE : 66.87720489501953
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 141.83636474609375
+Val RE : 382.3512878417969
+Test RE : 308.2857666015625
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 84.00078582763672
+Val RE : 137.75013732910156
+Test RE : 119.07146453857422
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 110.82185363769531
+Val RE : 211.01593017578125
+Test RE : 176.56361389160156
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 51.66949462890625
+Val RE : 55.81893539428711
+Test RE : 51.741756439208984
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 74.78388214111328
+Val RE : 59.32311248779297
+Test RE : 88.66836547851562
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 147.21002197265625
+Val RE : 157.7475128173828
+Test RE : 166.21478271484375
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 74.37732696533203
+Val RE : 76.13966369628906
+Test RE : 77.5515365600586
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 58.372886657714844
+Val RE : 61.90908432006836
+Test RE : 63.14266586303711
+
+
+Model : LR 0.01 kernel (2, 2) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 47.82670211791992
+Val RE : 49.87446975708008
+Test RE : 51.33831024169922
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 54.28167724609375
+Val RE : 50.84822082519531
+Test RE : 61.81528854370117
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 45.705162048339844
+Val RE : 46.67912292480469
+Test RE : 66.95726776123047
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 81.89016723632812
+Val RE : 88.99850463867188
+Test RE : 67.86203002929688
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 55.103172302246094
+Val RE : 52.20400619506836
+Test RE : 55.96485137939453
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 58.97747039794922
+Val RE : 57.20857620239258
+Test RE : 64.0051040649414
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 52.5431022644043
+Val RE : 61.5040283203125
+Test RE : 52.47587966918945
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 54.424739837646484
+Val RE : 51.683284759521484
+Test RE : 60.981292724609375
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 52.012489318847656
+Val RE : 65.9220199584961
+Test RE : 59.81038284301758
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 84.01847839355469
+Val RE : 85.51464080810547
+Test RE : 77.70198822021484
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 47.78240203857422
+Val RE : 47.087955474853516
+Test RE : 45.77848434448242
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 48.63338088989258
+Val RE : 46.333396911621094
+Test RE : 46.44289016723633
+
+
+Model : LR 0.01 kernel (2, 2) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 48.58399200439453
+Val RE : 45.966270446777344
+Test RE : 46.443580627441406
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 58.65971755981445
+Val RE : 60.3109016418457
+Test RE : 68.94180297851562
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 50.4450569152832
+Val RE : 49.34485626220703
+Test RE : 51.7086181640625
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 47.69951629638672
+Val RE : 71.20487213134766
+Test RE : 63.94071960449219
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 50.438297271728516
+Val RE : 48.914485931396484
+Test RE : 51.08285903930664
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 47.90492630004883
+Val RE : 53.75772476196289
+Test RE : 58.861629486083984
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 34.18124771118164
+Val RE : 47.30536651611328
+Test RE : 64.02001953125
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 52.836891174316406
+Val RE : 70.33718872070312
+Test RE : 74.43867492675781
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 55.12611770629883
+Val RE : 60.48644256591797
+Test RE : 70.82843780517578
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 71.60922241210938
+Val RE : 78.40581512451172
+Test RE : 63.4003791809082
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 51.56329345703125
+Val RE : 45.475975036621094
+Test RE : 49.09180450439453
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 55.51566696166992
+Val RE : 59.19984436035156
+Test RE : 61.86970901489258
+
+
+Model : LR 0.01 kernel (2, 2) stride (4, 4) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 56.36868667602539
+Val RE : 56.71979904174805
+Test RE : 60.730777740478516
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 75.03350067138672
+Val RE : 138.99205017089844
+Test RE : 138.03875732421875
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 90.01411437988281
+Val RE : 111.4531021118164
+Test RE : 102.19493103027344
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 232.14044189453125
+Val RE : 333.31829833984375
+Test RE : 271.61700439453125
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 64.5089340209961
+Val RE : 65.86579895019531
+Test RE : 68.22332000732422
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 67.77101135253906
+Val RE : 94.6424789428711
+Test RE : 103.29312133789062
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 64.64749908447266
+Val RE : 71.01136016845703
+Test RE : 87.49897766113281
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 42.01475143432617
+Val RE : 40.786685943603516
+Test RE : 43.44641876220703
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 51.89620590209961
+Val RE : 58.24966812133789
+Test RE : 49.77434539794922
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 37.36885070800781
+Val RE : 42.419044494628906
+Test RE : 41.37376403808594
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 64.35238647460938
+Val RE : 96.7125015258789
+Test RE : 94.7006607055664
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 79.4461669921875
+Val RE : 117.4791030883789
+Test RE : 144.5603485107422
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 184.43511962890625
+Val RE : 257.5614318847656
+Test RE : 284.0811462402344
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 49.05342102050781
+Val RE : 55.198848724365234
+Test RE : 64.05937957763672
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 78.26844787597656
+Val RE : 83.43449401855469
+Test RE : 93.62268829345703
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 82.8673095703125
+Val RE : 85.4355239868164
+Test RE : 100.84609985351562
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 51.34733200073242
+Val RE : 49.83993148803711
+Test RE : 52.71259307861328
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 37.92874526977539
+Val RE : 40.872928619384766
+Test RE : 53.10095977783203
+
+
+Model : LR 0.01 kernel (3, 3) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 36.94411087036133
+Val RE : 45.77730941772461
+Test RE : 46.49435043334961
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 64.8448257446289
+Val RE : 63.907344818115234
+Test RE : 71.75616455078125
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 58.653587341308594
+Val RE : 66.58817291259766
+Test RE : 75.05731964111328
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 98.5121078491211
+Val RE : 96.77659606933594
+Test RE : 123.04467010498047
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 41.00006866455078
+Val RE : 39.6290397644043
+Test RE : 40.72671890258789
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 53.495548248291016
+Val RE : 69.6649169921875
+Test RE : 62.99736404418945
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 61.81372833251953
+Val RE : 73.15331268310547
+Test RE : 75.34896850585938
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 38.94515609741211
+Val RE : 47.493186950683594
+Test RE : 69.23676300048828
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 62.13597869873047
+Val RE : 78.77159118652344
+Test RE : 87.38368225097656
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 54.169227600097656
+Val RE : 72.21070861816406
+Test RE : 97.08731079101562
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 43.75742721557617
+Val RE : 39.861873626708984
+Test RE : 49.44655227661133
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 41.249820709228516
+Val RE : 56.947566986083984
+Test RE : 69.3947525024414
+
+
+Model : LR 0.01 kernel (3, 3) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 56.886478424072266
+Val RE : 59.96102523803711
+Test RE : 57.75116729736328
+
+
+Model : LR 0.01 kernel (3, 3) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 53.54916763305664
+Val RE : 56.37648391723633
+Test RE : 61.34830093383789
+
+
+Model : LR 0.01 kernel (3, 3) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 47.654296875
+Val RE : 51.21990966796875
+Test RE : 65.04734802246094
+
+
+Model : LR 0.01 kernel (3, 3) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 43.458213806152344
+Val RE : 64.96076965332031
+Test RE : 60.93340301513672
+
+
+Model : LR 0.01 kernel (3, 3) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 33.30171203613281
+Val RE : 37.56109619140625
+Test RE : 41.32551956176758
+
+
+Model : LR 0.01 kernel (3, 3) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 40.482749938964844
+Val RE : 62.18624496459961
+Test RE : 53.59495162963867
+
+
+Model : LR 0.01 kernel (3, 3) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 41.364810943603516
+Val RE : 43.297996520996094
+Test RE : 67.45455932617188
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 136.42355346679688
+Val RE : 283.15643310546875
+Test RE : 218.57781982421875
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 185.62132263183594
+Val RE : 308.1614990234375
+Test RE : 232.69711303710938
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 176.99623107910156
+Val RE : 191.4404754638672
+Test RE : 262.7721252441406
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 61.73042678833008
+Val RE : 94.3447036743164
+Test RE : 96.18146514892578
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 87.58212280273438
+Val RE : 97.47863006591797
+Test RE : 103.01785278320312
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 107.90404510498047
+Val RE : 135.58517456054688
+Test RE : 122.87091827392578
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 49.1264762878418
+Val RE : 52.293556213378906
+Test RE : 50.987205505371094
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 64.37164306640625
+Val RE : 63.51737976074219
+Test RE : 77.43228912353516
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 52.14984893798828
+Val RE : 56.79433059692383
+Test RE : 63.067081451416016
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 68.99182891845703
+Val RE : 125.41619110107422
+Test RE : 124.79287719726562
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 66.19200134277344
+Val RE : 95.99370574951172
+Test RE : 97.8239517211914
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 371.98077392578125
+Val RE : 379.3782653808594
+Test RE : 315.3477783203125
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 55.95748519897461
+Val RE : 58.01790237426758
+Test RE : 75.79008483886719
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 61.589088439941406
+Val RE : 79.49757385253906
+Test RE : 81.22904968261719
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 80.58159637451172
+Val RE : 80.33573913574219
+Test RE : 76.7299575805664
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 54.01158142089844
+Val RE : 54.71598434448242
+Test RE : 70.90251922607422
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 55.95817184448242
+Val RE : 62.583614349365234
+Test RE : 62.11357879638672
+
+
+Model : LR 0.01 kernel (4, 4) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 42.462459564208984
+Val RE : 38.73981475830078
+Test RE : 37.49852752685547
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 44.56006622314453
+Val RE : 49.19961929321289
+Test RE : 43.38444137573242
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 74.68949127197266
+Val RE : 92.75310516357422
+Test RE : 134.46250915527344
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 98.05424499511719
+Val RE : 69.9609603881836
+Test RE : 109.58438873291016
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 58.473388671875
+Val RE : 56.87321090698242
+Test RE : 67.83325958251953
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 55.09748077392578
+Val RE : 59.726295471191406
+Test RE : 48.81913375854492
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 53.408103942871094
+Val RE : 57.71658706665039
+Test RE : 75.51385498046875
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 56.38871383666992
+Val RE : 51.743595123291016
+Test RE : 75.46841430664062
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 40.91535949707031
+Val RE : 89.73748016357422
+Test RE : 83.71859741210938
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 262.4289855957031
+Val RE : 196.0685577392578
+Test RE : 289.5838623046875
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 39.66298294067383
+Val RE : 36.38842010498047
+Test RE : 45.549686431884766
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 47.79708480834961
+Val RE : 57.18406295776367
+Test RE : 52.51523208618164
+
+
+Model : LR 0.01 kernel (4, 4) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 62.725643157958984
+Val RE : 61.43490219116211
+Test RE : 76.96692657470703
+
+
+Model : LR 0.01 kernel (4, 4) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 59.82560729980469
+Val RE : 69.92890167236328
+Test RE : 59.04466247558594
+
+
+Model : LR 0.01 kernel (4, 4) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 51.3960075378418
+Val RE : 69.30315399169922
+Test RE : 67.40984344482422
+
+
+Model : LR 0.01 kernel (4, 4) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 66.95570373535156
+Val RE : 65.02182006835938
+Test RE : 99.62796020507812
+
+
+Model : LR 0.01 kernel (4, 4) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 49.81915283203125
+Val RE : 45.14262008666992
+Test RE : 58.44083786010742
+
+
+Model : LR 0.01 kernel (4, 4) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 52.3376579284668
+Val RE : 62.12838363647461
+Test RE : 69.19933319091797
+
+
+Model : LR 0.01 kernel (4, 4) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 84.73677062988281
+Val RE : 75.92280578613281
+Test RE : 100.60028839111328
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 110.11680603027344
+Val RE : 155.84219360351562
+Test RE : 215.18560791015625
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 304.951171875
+Val RE : 409.9819641113281
+Test RE : 454.065185546875
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 534.981201171875
+Val RE : 615.8099975585938
+Test RE : 745.7958374023438
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 94.2043228149414
+Val RE : 105.9070816040039
+Test RE : 116.00548553466797
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 62.07617950439453
+Val RE : 66.35742950439453
+Test RE : 86.13482666015625
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 279.3876037597656
+Val RE : 224.66650390625
+Test RE : 368.8458251953125
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 47.5008544921875
+Val RE : 42.29838180541992
+Test RE : 48.6895637512207
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 53.04508972167969
+Val RE : 63.401668548583984
+Test RE : 64.32522583007812
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 85.94871520996094
+Val RE : 80.7557144165039
+Test RE : 85.74842071533203
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 151.66375732421875
+Val RE : 209.034423828125
+Test RE : 200.6322021484375
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 258.04766845703125
+Val RE : 378.3364562988281
+Test RE : 331.46160888671875
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 1104.550537109375
+Val RE : 1052.967529296875
+Test RE : 1302.1068115234375
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 48.14054870605469
+Val RE : 45.442848205566406
+Test RE : 53.179931640625
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 84.55006408691406
+Val RE : 88.94481658935547
+Test RE : 112.24723052978516
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 100.61595153808594
+Val RE : 134.0782928466797
+Test RE : 122.09088134765625
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 50.95561599731445
+Val RE : 48.83885955810547
+Test RE : 51.05049133300781
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 54.32681655883789
+Val RE : 45.754737854003906
+Test RE : 65.85271453857422
+
+
+Model : LR 0.01 kernel (5, 5) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 46.97859191894531
+Val RE : 64.57554626464844
+Test RE : 101.52812957763672
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 78.45719146728516
+Val RE : 87.28081512451172
+Test RE : 111.62866973876953
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 54.77536392211914
+Val RE : 83.9181900024414
+Test RE : 81.82292938232422
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 142.93331909179688
+Val RE : 197.4131622314453
+Test RE : 122.87051391601562
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 60.76518249511719
+Val RE : 62.98216247558594
+Test RE : 60.55174255371094
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 48.21129608154297
+Val RE : 51.436180114746094
+Test RE : 54.889617919921875
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 80.04962921142578
+Val RE : 79.65715789794922
+Test RE : 88.70687866210938
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 62.914451599121094
+Val RE : 60.51555252075195
+Test RE : 75.9747085571289
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 109.06588745117188
+Val RE : 132.11419677734375
+Test RE : 129.29638671875
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 143.1239471435547
+Val RE : 194.67222595214844
+Test RE : 246.23440551757812
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 79.6015396118164
+Val RE : 90.71276092529297
+Test RE : 89.5145034790039
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 48.236045837402344
+Val RE : 46.636043548583984
+Test RE : 47.15692901611328
+
+
+Model : LR 0.01 kernel (5, 5) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 48.94248962402344
+Val RE : 59.86388397216797
+Test RE : 86.38568878173828
+
+
+Model : LR 0.01 kernel (5, 5) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 47.59177780151367
+Val RE : 44.938148498535156
+Test RE : 48.695674896240234
+
+
+Model : LR 0.01 kernel (5, 5) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 51.32959747314453
+Val RE : 55.67422866821289
+Test RE : 56.82038116455078
+
+
+Model : LR 0.01 kernel (5, 5) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 58.7576789855957
+Val RE : 79.70866394042969
+Test RE : 86.57797241210938
+
+
+Model : LR 0.01 kernel (5, 5) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 49.36719512939453
+Val RE : 48.34012222290039
+Test RE : 50.24393081665039
+
+
+Model : LR 0.01 kernel (5, 5) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 72.42021179199219
+Val RE : 64.34325408935547
+Test RE : 82.39752197265625
+
+
+Model : LR 0.01 kernel (5, 5) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 61.45448684692383
+Val RE : 63.129085540771484
+Test RE : 63.666725158691406
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 140.82504272460938
+Val RE : 209.53233337402344
+Test RE : 196.20220947265625
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 68.6421890258789
+Val RE : 160.648193359375
+Test RE : 164.5946502685547
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 70.77098083496094
+Val RE : 148.8175811767578
+Test RE : 170.58958435058594
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 90.8449935913086
+Val RE : 114.023193359375
+Test RE : 103.30519104003906
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 70.66352081298828
+Val RE : 93.82539367675781
+Test RE : 118.98593139648438
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 50.30265426635742
+Val RE : 57.956295013427734
+Test RE : 89.52391052246094
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 64.37944793701172
+Val RE : 81.0223617553711
+Test RE : 59.50114822387695
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 42.16374588012695
+Val RE : 61.433292388916016
+Test RE : 63.588623046875
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 58.3212776184082
+Val RE : 70.43525695800781
+Test RE : 71.59677124023438
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 88.22917175292969
+Val RE : 194.3651885986328
+Test RE : 294.7851257324219
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 90.6417007446289
+Val RE : 192.15078735351562
+Test RE : 174.4123992919922
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 80.66524505615234
+Val RE : 165.70823669433594
+Test RE : 200.29429626464844
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 59.71162796020508
+Val RE : 81.31193542480469
+Test RE : 70.87152099609375
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 44.186344146728516
+Val RE : 70.3269271850586
+Test RE : 75.77472686767578
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 68.08432006835938
+Val RE : 84.07145690917969
+Test RE : 79.24744415283203
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 57.531192779541016
+Val RE : 51.86861038208008
+Test RE : 63.74219512939453
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 49.50362777709961
+Val RE : 63.732666015625
+Test RE : 66.81969451904297
+
+
+Model : LR 0.001 kernel (2, 2) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 54.57037353515625
+Val RE : 76.01299285888672
+Test RE : 94.05702209472656
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 54.75380325317383
+Val RE : 57.85054016113281
+Test RE : 61.653358459472656
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 69.60230255126953
+Val RE : 108.53359985351562
+Test RE : 91.28546905517578
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 70.62071228027344
+Val RE : 69.61247253417969
+Test RE : 71.12734985351562
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 51.74935531616211
+Val RE : 50.305397033691406
+Test RE : 46.78263473510742
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 41.50413513183594
+Val RE : 47.51937484741211
+Test RE : 49.36111831665039
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 54.865318298339844
+Val RE : 63.46311950683594
+Test RE : 64.17562103271484
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 67.3119888305664
+Val RE : 80.37090301513672
+Test RE : 78.54283905029297
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 60.36431884765625
+Val RE : 71.52949523925781
+Test RE : 88.43695068359375
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 58.04361343383789
+Val RE : 100.25676727294922
+Test RE : 88.89900207519531
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 56.98360061645508
+Val RE : 55.281654357910156
+Test RE : 57.19192123413086
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 51.58648681640625
+Val RE : 50.0252799987793
+Test RE : 59.241973876953125
+
+
+Model : LR 0.001 kernel (2, 2) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 47.63367462158203
+Val RE : 45.81443786621094
+Test RE : 55.292503356933594
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 58.65418243408203
+Val RE : 64.23789978027344
+Test RE : 67.47270202636719
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 45.22207260131836
+Val RE : 67.30332946777344
+Test RE : 71.92139434814453
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 50.53097152709961
+Val RE : 54.98147964477539
+Test RE : 63.582244873046875
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 49.817508697509766
+Val RE : 46.328556060791016
+Test RE : 48.10611343383789
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 58.827735900878906
+Val RE : 64.28763580322266
+Test RE : 59.771854400634766
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 32.86991500854492
+Val RE : 44.8699836730957
+Test RE : 34.19796371459961
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 46.91300582885742
+Val RE : 51.701637268066406
+Test RE : 52.3470344543457
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 53.648826599121094
+Val RE : 70.1021728515625
+Test RE : 89.34078216552734
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 48.58774185180664
+Val RE : 58.54781723022461
+Test RE : 60.21475601196289
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 46.8401985168457
+Val RE : 46.586997985839844
+Test RE : 45.796913146972656
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 37.8209228515625
+Val RE : 39.15779495239258
+Test RE : 49.73369598388672
+
+
+Model : LR 0.001 kernel (2, 2) stride (4, 4) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 46.58137512207031
+Val RE : 50.298973083496094
+Test RE : 49.8331298828125
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 53.43138885498047
+Val RE : 97.85767364501953
+Test RE : 137.92185974121094
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 85.8888168334961
+Val RE : 247.74691772460938
+Test RE : 219.05914306640625
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 114.01835632324219
+Val RE : 145.47128295898438
+Test RE : 192.04641723632812
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 67.30924987792969
+Val RE : 104.71466827392578
+Test RE : 103.63556671142578
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 51.38913345336914
+Val RE : 84.2191162109375
+Test RE : 97.34819793701172
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 59.17124938964844
+Val RE : 105.90508270263672
+Test RE : 91.77082824707031
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 49.0612907409668
+Val RE : 48.6884651184082
+Test RE : 51.78695297241211
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 50.31730651855469
+Val RE : 45.595458984375
+Test RE : 50.436851501464844
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 45.44483947753906
+Val RE : 41.14334487915039
+Test RE : 50.16176986694336
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 84.5523910522461
+Val RE : 156.29736328125
+Test RE : 218.69351196289062
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 97.09663391113281
+Val RE : 139.85983276367188
+Test RE : 260.6073913574219
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 99.5565414428711
+Val RE : 152.1090545654297
+Test RE : 184.76278686523438
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 52.046810150146484
+Val RE : 65.51991271972656
+Test RE : 75.94457244873047
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 52.73239517211914
+Val RE : 139.40538024902344
+Test RE : 114.46332550048828
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 62.872154235839844
+Val RE : 77.98470306396484
+Test RE : 109.8408203125
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 44.005855560302734
+Val RE : 45.53468322753906
+Test RE : 49.396968841552734
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 46.59709930419922
+Val RE : 49.570396423339844
+Test RE : 48.2049446105957
+
+
+Model : LR 0.001 kernel (3, 3) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 66.4433822631836
+Val RE : 84.90708923339844
+Test RE : 105.00850677490234
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 59.17844009399414
+Val RE : 84.87751007080078
+Test RE : 70.7574691772461
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 85.09208679199219
+Val RE : 113.73023223876953
+Test RE : 164.2334747314453
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 53.46851348876953
+Val RE : 70.92776489257812
+Test RE : 83.22102355957031
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 45.31196212768555
+Val RE : 37.70047378540039
+Test RE : 46.234519958496094
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 54.58746337890625
+Val RE : 56.96665573120117
+Test RE : 60.64487075805664
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 56.3167610168457
+Val RE : 55.310123443603516
+Test RE : 55.819313049316406
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 55.48043441772461
+Val RE : 60.43272018432617
+Test RE : 54.78080749511719
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 59.25071716308594
+Val RE : 93.85859680175781
+Test RE : 77.62419128417969
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 68.23619842529297
+Val RE : 86.69889068603516
+Test RE : 81.81321716308594
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 57.39025115966797
+Val RE : 63.03623962402344
+Test RE : 80.19049072265625
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 46.05863952636719
+Val RE : 53.181339263916016
+Test RE : 53.14583206176758
+
+
+Model : LR 0.001 kernel (3, 3) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 51.78062438964844
+Val RE : 53.20650100708008
+Test RE : 50.87791442871094
+
+
+Model : LR 0.001 kernel (3, 3) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 60.94171142578125
+Val RE : 58.21734619140625
+Test RE : 55.446170806884766
+
+
+Model : LR 0.001 kernel (3, 3) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 44.79420852661133
+Val RE : 72.17169952392578
+Test RE : 58.85478591918945
+
+
+Model : LR 0.001 kernel (3, 3) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 44.76917266845703
+Val RE : 62.97224044799805
+Test RE : 52.91581726074219
+
+
+Model : LR 0.001 kernel (3, 3) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 45.76570510864258
+Val RE : 37.34375762939453
+Test RE : 59.90511703491211
+
+
+Model : LR 0.001 kernel (3, 3) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 64.24520111083984
+Val RE : 71.0664291381836
+Test RE : 62.86652755737305
+
+
+Model : LR 0.001 kernel (3, 3) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 56.47526931762695
+Val RE : 76.80651092529297
+Test RE : 91.4167251586914
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 97.32310485839844
+Val RE : 152.25267028808594
+Test RE : 158.3357696533203
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 53.147769927978516
+Val RE : 124.09913635253906
+Test RE : 171.2611083984375
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 62.51042175292969
+Val RE : 152.54275512695312
+Test RE : 159.24830627441406
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 53.80836868286133
+Val RE : 104.8941879272461
+Test RE : 113.71183013916016
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 57.52827835083008
+Val RE : 73.92681121826172
+Test RE : 107.78639221191406
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 53.66617202758789
+Val RE : 95.51105499267578
+Test RE : 81.37744140625
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 55.01627731323242
+Val RE : 54.784000396728516
+Test RE : 61.701839447021484
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 69.10778045654297
+Val RE : 62.02177810668945
+Test RE : 72.52696228027344
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 43.79917907714844
+Val RE : 56.80179977416992
+Test RE : 64.05669403076172
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 62.058143615722656
+Val RE : 124.30797576904297
+Test RE : 141.7108917236328
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 74.45711517333984
+Val RE : 157.65615844726562
+Test RE : 143.4704132080078
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 48.873722076416016
+Val RE : 188.3083038330078
+Test RE : 171.45413208007812
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 72.7867202758789
+Val RE : 108.57386779785156
+Test RE : 111.99134063720703
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 58.98479461669922
+Val RE : 109.34403228759766
+Test RE : 72.76630401611328
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 78.50554656982422
+Val RE : 110.77892303466797
+Test RE : 123.15257263183594
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 48.31282424926758
+Val RE : 47.65351486206055
+Test RE : 49.63302230834961
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 51.16887664794922
+Val RE : 54.07780838012695
+Test RE : 54.85839080810547
+
+
+Model : LR 0.001 kernel (4, 4) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 38.5741081237793
+Val RE : 43.6741828918457
+Test RE : 46.75239562988281
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 60.672462463378906
+Val RE : 70.63742065429688
+Test RE : 90.5421371459961
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 48.21956253051758
+Val RE : 91.01599884033203
+Test RE : 82.78081512451172
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 71.43439483642578
+Val RE : 124.83635711669922
+Test RE : 90.81135559082031
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 48.174781799316406
+Val RE : 41.89909362792969
+Test RE : 52.76742935180664
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 44.544185638427734
+Val RE : 43.889244079589844
+Test RE : 46.908870697021484
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 50.28715515136719
+Val RE : 46.27951431274414
+Test RE : 58.52482986450195
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 65.47391510009766
+Val RE : 83.1889419555664
+Test RE : 71.16080474853516
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 64.63066864013672
+Val RE : 87.7454833984375
+Test RE : 79.91187286376953
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 52.133243560791016
+Val RE : 98.66242218017578
+Test RE : 100.36871337890625
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 62.4787483215332
+Val RE : 59.92159652709961
+Test RE : 63.70191955566406
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 46.85984802246094
+Val RE : 45.48276901245117
+Test RE : 53.7007942199707
+
+
+Model : LR 0.001 kernel (4, 4) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 44.17353057861328
+Val RE : 44.915653228759766
+Test RE : 55.17238998413086
+
+
+Model : LR 0.001 kernel (4, 4) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 55.81367111206055
+Val RE : 57.56101608276367
+Test RE : 72.66870880126953
+
+
+Model : LR 0.001 kernel (4, 4) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 53.41499328613281
+Val RE : 62.98843002319336
+Test RE : 80.61786651611328
+
+
+Model : LR 0.001 kernel (4, 4) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 46.538108825683594
+Val RE : 71.58384704589844
+Test RE : 76.25353240966797
+
+
+Model : LR 0.001 kernel (4, 4) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 61.72975158691406
+Val RE : 62.86222457885742
+Test RE : 67.11985778808594
+
+
+Model : LR 0.001 kernel (4, 4) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 51.22395706176758
+Val RE : 63.29775619506836
+Test RE : 69.82099151611328
+
+
+Model : LR 0.001 kernel (4, 4) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 63.74723434448242
+Val RE : 92.68685150146484
+Test RE : 89.77923583984375
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 94.03401184082031
+Val RE : 203.0841827392578
+Test RE : 204.6489715576172
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 80.45449829101562
+Val RE : 235.8427734375
+Test RE : 249.02210998535156
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 66.04786682128906
+Val RE : 173.33209228515625
+Test RE : 174.43472290039062
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 50.16507339477539
+Val RE : 68.83821105957031
+Test RE : 85.60442352294922
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 54.239078521728516
+Val RE : 91.56949615478516
+Test RE : 145.4610595703125
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 55.33140182495117
+Val RE : 91.29684448242188
+Test RE : 88.16743469238281
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 46.143611907958984
+Val RE : 46.17489242553711
+Test RE : 48.073486328125
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 41.90117263793945
+Val RE : 47.37394332885742
+Test RE : 61.030155181884766
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 57.02666091918945
+Val RE : 53.534664154052734
+Test RE : 61.63722229003906
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 56.809974670410156
+Val RE : 150.22598266601562
+Test RE : 165.78359985351562
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 55.31780242919922
+Val RE : 165.13900756835938
+Test RE : 152.49954223632812
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 99.3826675415039
+Val RE : 175.74351501464844
+Test RE : 164.95826721191406
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 44.41407012939453
+Val RE : 58.750911712646484
+Test RE : 68.19145965576172
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 51.330482482910156
+Val RE : 83.69739532470703
+Test RE : 76.2405776977539
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 55.94304275512695
+Val RE : 63.51906204223633
+Test RE : 83.41787719726562
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 50.22020721435547
+Val RE : 48.402652740478516
+Test RE : 53.12159729003906
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 51.57699203491211
+Val RE : 53.27598571777344
+Test RE : 66.81331634521484
+
+
+Model : LR 0.001 kernel (5, 5) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 47.39280319213867
+Val RE : 51.08110427856445
+Test RE : 66.52156066894531
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 68.59330749511719
+Val RE : 74.56102752685547
+Test RE : 88.10022735595703
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 47.754825592041016
+Val RE : 71.85986328125
+Test RE : 93.47931671142578
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 52.3154182434082
+Val RE : 110.64632415771484
+Test RE : 81.45709228515625
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 49.232460021972656
+Val RE : 49.7913818359375
+Test RE : 48.753719329833984
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 42.10672378540039
+Val RE : 37.72664260864258
+Test RE : 41.90444564819336
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 56.34252166748047
+Val RE : 65.20214080810547
+Test RE : 66.0224838256836
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 71.63715362548828
+Val RE : 68.07461547851562
+Test RE : 75.41478729248047
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 44.57444381713867
+Val RE : 99.89912414550781
+Test RE : 80.61953735351562
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 58.82160949707031
+Val RE : 111.8066635131836
+Test RE : 112.39432525634766
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 42.91898727416992
+Val RE : 38.96977996826172
+Test RE : 42.031124114990234
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 43.07181930541992
+Val RE : 49.279884338378906
+Test RE : 63.78372573852539
+
+
+Model : LR 0.001 kernel (5, 5) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 35.410499572753906
+Val RE : 45.967952728271484
+Test RE : 47.36314392089844
+
+
+Model : LR 0.001 kernel (5, 5) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 65.4293441772461
+Val RE : 63.94902038574219
+Test RE : 66.27337646484375
+
+
+Model : LR 0.001 kernel (5, 5) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 43.39068603515625
+Val RE : 48.75408935546875
+Test RE : 46.33403015136719
+
+
+Model : LR 0.001 kernel (5, 5) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 43.417476654052734
+Val RE : 63.660560607910156
+Test RE : 77.0740737915039
+
+
+Model : LR 0.001 kernel (5, 5) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 39.96510696411133
+Val RE : 40.10208511352539
+Test RE : 46.11876678466797
+
+
+Model : LR 0.001 kernel (5, 5) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 50.676082611083984
+Val RE : 51.8533821105957
+Test RE : 52.68389129638672
+
+
+Model : LR 0.001 kernel (5, 5) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 62.2531623840332
+Val RE : 56.737060546875
+Test RE : 64.75589752197266
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 153.6604766845703
+Val RE : 354.9954528808594
+Test RE : 339.8721923828125
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 213.29103088378906
+Val RE : 243.33775329589844
+Test RE : 362.54315185546875
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 95.622802734375
+Val RE : 213.23326110839844
+Test RE : 195.29244995117188
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 209.1020050048828
+Val RE : 222.14073181152344
+Test RE : 198.62356567382812
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 147.04025268554688
+Val RE : 237.9300079345703
+Test RE : 115.27608489990234
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 84.94803619384766
+Val RE : 147.2108917236328
+Test RE : 152.2982177734375
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 171.14739990234375
+Val RE : 166.67465209960938
+Test RE : 174.3227081298828
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 118.67146301269531
+Val RE : 149.2270050048828
+Test RE : 88.1653823852539
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 85.78628540039062
+Val RE : 114.08738708496094
+Test RE : 109.02401733398438
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 130.0080108642578
+Val RE : 308.7366943359375
+Test RE : 316.0460510253906
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 127.02468872070312
+Val RE : 250.46188354492188
+Test RE : 361.1280822753906
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 120.48979949951172
+Val RE : 193.92184448242188
+Test RE : 201.9927215576172
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 135.00379943847656
+Val RE : 176.475341796875
+Test RE : 141.09352111816406
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 116.42958068847656
+Val RE : 200.59042358398438
+Test RE : 173.0123291015625
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 98.24022674560547
+Val RE : 142.52658081054688
+Test RE : 122.44915771484375
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 165.1420440673828
+Val RE : 175.3169403076172
+Test RE : 158.88394165039062
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 126.92475128173828
+Val RE : 125.73738861083984
+Test RE : 134.4772186279297
+
+
+Model : LR 0.0001 kernel (2, 2) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 88.06175994873047
+Val RE : 105.02014923095703
+Test RE : 112.07627868652344
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 135.8064727783203
+Val RE : 218.50350952148438
+Test RE : 171.7187042236328
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 115.12213897705078
+Val RE : 155.04388427734375
+Test RE : 153.27798461914062
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 123.67543029785156
+Val RE : 200.2533416748047
+Test RE : 183.1410675048828
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 109.84011840820312
+Val RE : 114.21932220458984
+Test RE : 111.17608642578125
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 80.67130279541016
+Val RE : 91.0469970703125
+Test RE : 90.10089874267578
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 63.65941619873047
+Val RE : 75.1640853881836
+Test RE : 103.71517944335938
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 165.14834594726562
+Val RE : 177.8818359375
+Test RE : 165.27711486816406
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 129.03465270996094
+Val RE : 165.13958740234375
+Test RE : 157.37545776367188
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 118.9847412109375
+Val RE : 195.78053283691406
+Test RE : 168.7626953125
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 92.23042297363281
+Val RE : 115.42619323730469
+Test RE : 75.43154907226562
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 65.10612487792969
+Val RE : 69.55237579345703
+Test RE : 70.09314727783203
+
+
+Model : LR 0.0001 kernel (2, 2) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 51.963157653808594
+Val RE : 54.076358795166016
+Test RE : 46.934967041015625
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 182.16551208496094
+Val RE : 182.33889770507812
+Test RE : 161.16026306152344
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 111.89949798583984
+Val RE : 166.252685546875
+Test RE : 127.38275146484375
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 95.5685043334961
+Val RE : 127.37047576904297
+Test RE : 147.15478515625
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 62.426002502441406
+Val RE : 68.45854949951172
+Test RE : 86.33818817138672
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 83.51000213623047
+Val RE : 68.9605712890625
+Test RE : 98.88406372070312
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 84.1839599609375
+Val RE : 114.48743438720703
+Test RE : 83.93316650390625
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 120.40291595458984
+Val RE : 138.82318115234375
+Test RE : 122.73849487304688
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 97.72151184082031
+Val RE : 76.61685180664062
+Test RE : 149.5785369873047
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 94.73271179199219
+Val RE : 129.3567352294922
+Test RE : 105.82536315917969
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 75.90863800048828
+Val RE : 84.65357971191406
+Test RE : 81.86322021484375
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 85.93822479248047
+Val RE : 77.1597900390625
+Test RE : 98.06303405761719
+
+
+Model : LR 0.0001 kernel (2, 2) stride (4, 4) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 72.36924743652344
+Val RE : 65.3745346069336
+Test RE : 83.31134033203125
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 137.08445739746094
+Val RE : 216.2845001220703
+Test RE : 183.8848876953125
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 100.24732208251953
+Val RE : 232.77407836914062
+Test RE : 255.23995971679688
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 124.69091796875
+Val RE : 230.1297149658203
+Test RE : 160.35470581054688
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 169.47865295410156
+Val RE : 186.0922393798828
+Test RE : 273.9874572753906
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 111.96542358398438
+Val RE : 136.08953857421875
+Test RE : 168.87313842773438
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 87.79141235351562
+Val RE : 165.7967987060547
+Test RE : 119.8475570678711
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 65.4476547241211
+Val RE : 76.34310150146484
+Test RE : 81.46138763427734
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 67.29138946533203
+Val RE : 79.89558410644531
+Test RE : 61.90345764160156
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 58.80331802368164
+Val RE : 88.38720703125
+Test RE : 112.71931457519531
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 118.90769958496094
+Val RE : 285.5234375
+Test RE : 299.6480407714844
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 89.35546875
+Val RE : 232.5096893310547
+Test RE : 222.1273956298828
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 66.03716278076172
+Val RE : 167.78964233398438
+Test RE : 199.68116760253906
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 208.77354431152344
+Val RE : 209.30397033691406
+Test RE : 227.89794921875
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 149.69161987304688
+Val RE : 157.56057739257812
+Test RE : 130.36410522460938
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 60.783958435058594
+Val RE : 142.76278686523438
+Test RE : 142.97947692871094
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 92.37869262695312
+Val RE : 80.36762237548828
+Test RE : 79.70744323730469
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 74.21176147460938
+Val RE : 73.51245880126953
+Test RE : 81.45362091064453
+
+
+Model : LR 0.0001 kernel (3, 3) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 64.8199234008789
+Val RE : 103.95504760742188
+Test RE : 104.67634582519531
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 110.82990264892578
+Val RE : 121.4925537109375
+Test RE : 190.09420776367188
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 136.02716064453125
+Val RE : 185.6358184814453
+Test RE : 209.8953399658203
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 70.81388092041016
+Val RE : 120.02493286132812
+Test RE : 149.6248779296875
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 101.62987518310547
+Val RE : 97.3514175415039
+Test RE : 84.58744812011719
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 83.55997467041016
+Val RE : 117.8154525756836
+Test RE : 85.96881866455078
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 76.69670104980469
+Val RE : 110.01827239990234
+Test RE : 101.5308609008789
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 186.61094665527344
+Val RE : 178.3218231201172
+Test RE : 230.79258728027344
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 80.55323028564453
+Val RE : 122.41868591308594
+Test RE : 149.57730102539062
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 86.93668365478516
+Val RE : 161.94277954101562
+Test RE : 171.6975555419922
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 87.68839263916016
+Val RE : 89.85540008544922
+Test RE : 108.98881530761719
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 64.90348052978516
+Val RE : 81.9789047241211
+Test RE : 93.35784912109375
+
+
+Model : LR 0.0001 kernel (3, 3) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 69.92546844482422
+Val RE : 92.86445617675781
+Test RE : 116.15229797363281
+
+
+Model : LR 0.0001 kernel (3, 3) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 130.8332977294922
+Val RE : 187.22012329101562
+Test RE : 146.27830505371094
+
+
+Model : LR 0.0001 kernel (3, 3) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 111.23775482177734
+Val RE : 130.5668487548828
+Test RE : 136.2568359375
+
+
+Model : LR 0.0001 kernel (3, 3) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 78.15342712402344
+Val RE : 149.92999267578125
+Test RE : 143.9197540283203
+
+
+Model : LR 0.0001 kernel (3, 3) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 193.98094177246094
+Val RE : 216.64964294433594
+Test RE : 207.3570098876953
+
+
+Model : LR 0.0001 kernel (3, 3) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 107.22565460205078
+Val RE : 127.7975845336914
+Test RE : 112.2323989868164
+
+
+Model : LR 0.0001 kernel (3, 3) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 71.9056396484375
+Val RE : 141.42242431640625
+Test RE : 105.00188446044922
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 182.87051391601562
+Val RE : 247.1581268310547
+Test RE : 310.4795227050781
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 80.84695434570312
+Val RE : 195.7388153076172
+Test RE : 223.47718811035156
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 57.137916564941406
+Val RE : 158.44264221191406
+Test RE : 151.12535095214844
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 184.20144653320312
+Val RE : 233.08958435058594
+Test RE : 184.0677947998047
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 132.06956481933594
+Val RE : 221.1414031982422
+Test RE : 209.0397186279297
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 54.67525863647461
+Val RE : 176.01315307617188
+Test RE : 169.9156036376953
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 65.34310913085938
+Val RE : 82.55904388427734
+Test RE : 73.52075958251953
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 64.38239288330078
+Val RE : 75.04239654541016
+Test RE : 74.99533081054688
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 67.22886657714844
+Val RE : 73.33427429199219
+Test RE : 80.54022979736328
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 163.0703887939453
+Val RE : 300.05096435546875
+Test RE : 309.39764404296875
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 81.13079071044922
+Val RE : 210.4508819580078
+Test RE : 173.0579376220703
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 71.49822235107422
+Val RE : 185.52952575683594
+Test RE : 223.82138061523438
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 119.55944061279297
+Val RE : 131.41348266601562
+Test RE : 144.69749450683594
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 115.81965637207031
+Val RE : 190.56170654296875
+Test RE : 160.2908935546875
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 67.5987548828125
+Val RE : 133.1509246826172
+Test RE : 134.22030639648438
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 100.72952270507812
+Val RE : 126.78599548339844
+Test RE : 82.93831634521484
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 63.094486236572266
+Val RE : 66.50557708740234
+Test RE : 98.00209045410156
+
+
+Model : LR 0.0001 kernel (4, 4) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 55.15941619873047
+Val RE : 68.52571105957031
+Test RE : 97.83998107910156
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 157.88706970214844
+Val RE : 240.40380859375
+Test RE : 213.48876953125
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 101.43269348144531
+Val RE : 188.59474182128906
+Test RE : 198.79051208496094
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 71.85806274414062
+Val RE : 118.91899108886719
+Test RE : 124.33206176757812
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 67.3742904663086
+Val RE : 68.90083312988281
+Test RE : 65.65263366699219
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 94.21773529052734
+Val RE : 108.22767639160156
+Test RE : 120.9366683959961
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 59.20552444458008
+Val RE : 66.52811431884766
+Test RE : 92.57472229003906
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 170.8333282470703
+Val RE : 170.32406616210938
+Test RE : 280.744873046875
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 154.33407592773438
+Val RE : 203.15956115722656
+Test RE : 178.31838989257812
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 75.19953155517578
+Val RE : 165.1165008544922
+Test RE : 192.76609802246094
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 84.21578216552734
+Val RE : 81.06391143798828
+Test RE : 108.06338500976562
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 71.603759765625
+Val RE : 74.085205078125
+Test RE : 92.31674194335938
+
+
+Model : LR 0.0001 kernel (4, 4) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 53.712764739990234
+Val RE : 86.11196899414062
+Test RE : 112.70811462402344
+
+
+Model : LR 0.0001 kernel (4, 4) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 95.85298919677734
+Val RE : 89.86498260498047
+Test RE : 133.09872436523438
+
+
+Model : LR 0.0001 kernel (4, 4) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 112.03681182861328
+Val RE : 113.26594543457031
+Test RE : 140.0347900390625
+
+
+Model : LR 0.0001 kernel (4, 4) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 64.3923568725586
+Val RE : 141.5009002685547
+Test RE : 126.52346801757812
+
+
+Model : LR 0.0001 kernel (4, 4) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 180.7658233642578
+Val RE : 207.8460235595703
+Test RE : 243.90675354003906
+
+
+Model : LR 0.0001 kernel (4, 4) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 84.84648895263672
+Val RE : 124.73178100585938
+Test RE : 154.79884338378906
+
+
+Model : LR 0.0001 kernel (4, 4) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 79.40666961669922
+Val RE : 167.4147491455078
+Test RE : 121.20390319824219
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 113.32156372070312
+Val RE : 251.51695251464844
+Test RE : 248.96060180664062
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 113.50166320800781
+Val RE : 217.05917358398438
+Test RE : 284.6127624511719
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 87.9808120727539
+Val RE : 141.76577758789062
+Test RE : 201.35743713378906
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 147.79046630859375
+Val RE : 180.25572204589844
+Test RE : 221.86822509765625
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 92.87672424316406
+Val RE : 217.40249633789062
+Test RE : 220.11929321289062
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 71.25484466552734
+Val RE : 166.47921752929688
+Test RE : 171.0099639892578
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (4, 4) padding same num_filter (8, 16)
+Train RE : 91.03673553466797
+Val RE : 76.51164245605469
+Test RE : 108.69903564453125
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (4, 4) padding same num_filter (16, 32)
+Train RE : 74.71713256835938
+Val RE : 75.05803680419922
+Test RE : 104.34830474853516
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (4, 4) padding same num_filter (32, 64)
+Train RE : 49.51470184326172
+Val RE : 75.01343536376953
+Test RE : 114.50697326660156
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 120.72721099853516
+Val RE : 190.52760314941406
+Test RE : 230.47499084472656
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 79.30430603027344
+Val RE : 195.71871948242188
+Test RE : 188.5206756591797
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 53.659542083740234
+Val RE : 168.71498107910156
+Test RE : 135.49583435058594
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 118.27509307861328
+Val RE : 147.98834228515625
+Test RE : 153.10890197753906
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 91.43689727783203
+Val RE : 142.3857421875
+Test RE : 138.35812377929688
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 72.57380676269531
+Val RE : 112.27892303466797
+Test RE : 138.93125915527344
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (4, 4) padding valid num_filter (8, 16)
+Train RE : 135.33547973632812
+Val RE : 152.4743194580078
+Test RE : 111.71746063232422
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (4, 4) padding valid num_filter (16, 32)
+Train RE : 73.72340393066406
+Val RE : 75.63410186767578
+Test RE : 91.19245147705078
+
+
+Model : LR 0.0001 kernel (5, 5) stride (2, 2) pool (4, 4) padding valid num_filter (32, 64)
+Train RE : 39.77891540527344
+Val RE : 78.32844543457031
+Test RE : 114.56157684326172
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 134.2266387939453
+Val RE : 167.56533813476562
+Test RE : 217.53146362304688
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 101.70162200927734
+Val RE : 162.4309539794922
+Test RE : 199.99073791503906
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 63.77838897705078
+Val RE : 196.1963653564453
+Test RE : 175.10983276367188
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (3, 3) padding same num_filter (8, 16)
+Train RE : 71.10417175292969
+Val RE : 78.32716369628906
+Test RE : 75.92169952392578
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (3, 3) padding same num_filter (16, 32)
+Train RE : 64.87136840820312
+Val RE : 99.60387420654297
+Test RE : 76.60050964355469
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (3, 3) padding same num_filter (32, 64)
+Train RE : 79.80135345458984
+Val RE : 100.83927154541016
+Test RE : 112.17021179199219
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 132.7017059326172
+Val RE : 156.2317352294922
+Test RE : 183.69509887695312
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 99.16570281982422
+Val RE : 153.0813751220703
+Test RE : 204.59840393066406
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 59.03617477416992
+Val RE : 111.26126861572266
+Test RE : 117.38908386230469
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (3, 3) padding valid num_filter (8, 16)
+Train RE : 57.32423782348633
+Val RE : 65.63423919677734
+Test RE : 64.18463134765625
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (3, 3) padding valid num_filter (16, 32)
+Train RE : 67.25106811523438
+Val RE : 77.55229187011719
+Test RE : 73.30426025390625
+
+
+Model : LR 0.0001 kernel (5, 5) stride (3, 3) pool (3, 3) padding valid num_filter (32, 64)
+Train RE : 64.4104232788086
+Val RE : 108.4542236328125
+Test RE : 119.52416229248047
+
+
+Model : LR 0.0001 kernel (5, 5) stride (4, 4) pool (2, 2) padding same num_filter (8, 16)
+Train RE : 59.20449447631836
+Val RE : 53.638816833496094
+Test RE : 63.41771697998047
+
+
+Model : LR 0.0001 kernel (5, 5) stride (4, 4) pool (2, 2) padding same num_filter (16, 32)
+Train RE : 79.12722778320312
+Val RE : 95.42212677001953
+Test RE : 130.6436004638672
+
+
+Model : LR 0.0001 kernel (5, 5) stride (4, 4) pool (2, 2) padding same num_filter (32, 64)
+Train RE : 75.72151947021484
+Val RE : 117.63932037353516
+Test RE : 114.15313720703125
+
+
+Model : LR 0.0001 kernel (5, 5) stride (4, 4) pool (2, 2) padding valid num_filter (8, 16)
+Train RE : 67.57968139648438
+Val RE : 55.87696075439453
+Test RE : 88.67066955566406
+
+
+Model : LR 0.0001 kernel (5, 5) stride (4, 4) pool (2, 2) padding valid num_filter (16, 32)
+Train RE : 58.98728942871094
+Val RE : 61.35343551635742
+Test RE : 77.4316635131836
+
+
+Model : LR 0.0001 kernel (5, 5) stride (4, 4) pool (2, 2) padding valid num_filter (32, 64)
+Train RE : 72.98573303222656
+Val RE : 128.22659301757812
+Test RE : 116.01151275634766
+
+
